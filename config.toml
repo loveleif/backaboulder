@@ -1,3 +1,20 @@
-baseURL = "http://example.org/"
+baseURL = "https://backaboulder.se/"
 languageCode = "en-us"
-title = "Bagar Bengtsson!"
+disableKinds = ["section", "taxonomy", "term", "RSS"]
+DefaultContentLanguage = "se"
+
+[languages]
+  [languages.se]
+    languageName = "Svenska"
+    title = "Bagarn Bengtsson"
+    weight = 1
+    contentDir = "content/se"
+    [languages.se.params]
+      FlagPath = "images/se.svg"
+  [languages.en]
+    languageName = "English"
+    title = "Bengtsson the baker"
+    weight = 2
+    contentDir = "content/en"
+    [languages.en.params]
+      FlagPath = "images/en.svg"
