@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <title>Bagar Bengtsson!</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://unpkg.com/wingcss"/>
-    <link rel="stylesheet" type="text/css" href="{{ `css/style.css` | absURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ `css/wing.min.css` | absURL }}"/>
+    <link rel="stylesheet" type="text/css" href="{{ `css/style.css` | absURL }}"/>
     {{ if .IsTranslated }}
       {{ range .Translations }}
-        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}"/>
       {{ end }}
     {{ end }}
   </head>
