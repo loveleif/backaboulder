@@ -29,7 +29,7 @@
         {{ end }}
     {{ if .IsTranslated }}
       {{ range .Translations }}
-        <div class="nav-item"><a href="{{ .Permalink }}"><img class="flag" src="{{ .Language.Params.FlagPath | absURL }}" height="10em"/>{{ .Language.LanguageName }}</a></div>
+        <div class="nav-item"><a href="{{ .Permalink }}"><img class="flag" src="{{ .Language.Params.FlagPath | absURL }}" height="10"/>{{ .Language.LanguageName }}</a></div>
       {{ end }}
     {{ end }}
       </div>
