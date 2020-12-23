@@ -1,0 +1,17 @@
+[mailUs]
+other = "Maila oss"
+
+[callUs]
+other = "Ring oss"
+
+[visitUs]
+other = "Besök oss"
+
+[weekdays]
+other = "Mån-fre"
+
+[weekends]
+other = "Lör-sön"
+
+[and]
+other = "och"

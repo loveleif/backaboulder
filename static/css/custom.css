@@ -1,0 +1,107 @@
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/Inter-Regular.woff2?v=3.15") format("woff2"),
+  url("../fonts/static/Inter-Regular.woff?v=3.15") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("../fonts/Inter-Black.woff2?v=3.15") format("woff2"),
+  url("../fonts/Inter-Black.woff?v=3.15") format("woff");
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  background: #38806a;
+}
+
+body {
+  font-family: Roboto Mono,monospace;
+
+  background: #fdf1d6;
+  display: flex;
+  flex-flow: column;
+  line-height: 1.6;
+  font-weight: 400;
+  font-size: 1.75rem;
+}
+
+h2 {
+  /* font-family: 'Josefin Sans', sans-serif; */
+  font-family: Inter;
+  font-weight: 900;
+  margin-top: 10rem;
+}
+
+svg.hold path {
+  fill: #345;
+}
+
+svg.hold path:hover {
+  fill: #f7c555;
+}
+
+
+path#hold:hover {
+  fill: #f7c555;
+}
+
+
+.social-media {
+  width: 3rem;
+}
+
+#header {
+  width: 100%;
+  background: #fdf1d6;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#footer {
+  padding: 3rem;
+  padding-bottom: 6rem;
+  font-size: small;
+  background: #38806a;
+  color: #fff;
+  position: relative;
+}
+
+#footer a {
+  color: #fff;
+}
+
+#top-logo {
+  padding: 1rem;
+}
+
+#top-logo img {
+  width: 10rem;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0
+}
+
+nav li {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+nav li a {
+  color: #000;
+  text-decoration: none;
+}
+
