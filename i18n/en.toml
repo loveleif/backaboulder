@@ -1,0 +1,17 @@
+[mailUs]
+other = "Mail us"
+
+[callUs]
+other = "Call us"
+
+[visitUs]
+other = "Visit us"
+
+[weekdays]
+other = "Mon-Fri"
+
+[weekends]
+other = "Sat-Sun"
+
+[and]
+other = "and"

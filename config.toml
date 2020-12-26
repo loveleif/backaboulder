@@ -11,6 +11,7 @@ DefaultContentLanguage = "se"
     contentDir = "content/se"
     [languages.se.params]
       FlagPath = "images/se.svg"
+      LanguageCode = "se"
   [languages.en]
     languageName = "English"
     title = "Bengtsson the baker"
@@ -18,3 +19,4 @@ DefaultContentLanguage = "se"
     contentDir = "content/en"
     [languages.en.params]
       FlagPath = "images/en.svg"
+      LanguageCode = "en"

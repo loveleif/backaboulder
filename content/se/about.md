@@ -1,9 +1,13 @@
 ---
-title: "Om oss"
+title: "Om"
 draft: false
 slug: "om"
 ---
 
-Bagarn Bengtsson här i stan, bakar kakor hela dan. Bla bla hej svejs. Tral alala. Hello Africa tell me how you doin. Can't stop till you get enough. Var bor du lilla råtta? I din hatt. Vad gör du klockan åtta? Jagar katt.
+## Om oss
 
-{{< figure src="/images/klasse.jpg" class="center" height="400" alt="Söt klättrare" >}}
+Vi har mer än 300 kvadratmeter klättervägg för dig att utforska. Om du behöver 
+mer energi så finns det kaffe, te, snacks och lättare förtäring i vårt café. 
+Efter passet kan du koppla av i vår bastu. I området finns det även flera goa 
+restauranger, pubar och andra nöjesaktiviteter att ta del av. Varför åka in till 
+stan när allting finns på Backaplan?

@@ -2,10 +2,21 @@
 <html lang="{{ .Site.Language.Lang }}">
   <head>
     <meta charset="utf-8">
-    <title>Bagar Bengtsson!</title>
+
+    <title>{{ .Title }}</title>
+
+    <link rel="icon" sizes="any" type="image/svg+xml" href="{{ `images/favicon.svg` | relURL }}">
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="{{ `css/wing.min.css` | absURL }}"/>
-    <link rel="stylesheet" type="text/css" href="{{ `css/style.css` | absURL }}"/>
+
+    <link rel="stylesheet" type="text/css" href="{{ `css/normalize.css` | relURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ `css/skeleton.css` | relURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ `css/custom.css` | relURL }}">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Mono:400" media="all">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat+Subrayada&display=swap" rel="stylesheet">
+
     {{ if .IsTranslated }}
       {{ range .Translations }}
         <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}"/>
@@ -13,30 +24,25 @@
     {{ end }}
   </head>
   <body>
-    <header>
-      <div class="nav horizontal-align">
-        {{ with .GetPage "about" }}
-          <div class="nav-item"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-        {{ end }}
-        {{ with .GetPage "opening-hours" }}
-          <div class="nav-item"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-        {{ end }}
-        {{ with .GetPage "prices" }}
-        <div class="nav-item"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-        {{ end }}
-        {{ with .GetPage "contact" }}
-        <div class="nav-item"><a href="{{ with .GetPage "contact" }}{{ .Permalink }}{{ end }}">{{ .Title }}</a></div>
-        {{ end }}
-    {{ if .IsTranslated }}
-      {{ range .Translations }}
-        <div class="nav-item"><a href="{{ .Permalink }}"><img class="flag" src="{{ .Language.Params.FlagPath | absURL }}" height="10" alt="{{ .Language.LanguageName }}"/>{{ .Language.LanguageName }}</a></div>
-      {{ end }}
-    {{ end }}
+    <div id="header">
+      <div id="top-logo">
+        <a href="/"><img src="{{ `images/logo.svg` | relURL }}" alt="Logotype" /></a>
       </div>
-	</header>
-	<main>
-	  {{ block "main" . }}
-    {{ end }}
-	</main>
+      <div id="menu">
+      {{ partial "menu.html" . }}
+      </div>
+    </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="seven columns">
+        {{ block "main" . }}
+        {{ end }}
+      </div>
+    </div>
+    <div class="five columns"></div>
+    </div>
+
+  {{ partial "footer" . }}
   </body>
 </html>
