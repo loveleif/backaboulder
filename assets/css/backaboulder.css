@@ -29,6 +29,7 @@ html {
 }
 
 body {
+  width: 100%;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.2rem;
   background: #fdf1d6;
@@ -36,17 +37,21 @@ body {
 
   display: flex;
   flex-flow: column;
+
+  background-image: url("../images/wall-top-left.svg");
+  background-repeat: no-repeat;
+  background-size: 25rem;
 }
 
 header {
-  width: 100%;
-  background: #fdf1d6;
   margin: 1rem;
 
   display: flex;
   flex-flow: row wrap;
   align-items: center;
   justify-content: space-between;
+
+  z-index: 1;
 }
 
 .translation {
@@ -54,7 +59,7 @@ header {
 }
 
 #top-logo img {
-  width: 14rem;
+  width: 5.5rem;
   margin-bottom: 3rem;
   margin-right: 2rem;
 }
@@ -71,11 +76,11 @@ nav ul {
   padding: 0;
 }
 
-nav li {
+nav li, nav span {
   margin-right: 1.5rem;
 }
 
-nav li a {
+nav li a, nav span {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: bold;
   font-size: 1.4rem;
@@ -95,6 +100,7 @@ h2 {
   color: #13273b;
   font-size: 4rem;
   margin-top: 12rem;
+  line-height: 1;
 }
 
 main {

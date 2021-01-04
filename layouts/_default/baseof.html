@@ -11,10 +11,16 @@
 
     <link rel="icon" sizes="any" type="image/svg+xml" href="{{ `images/favicon.svg` | relURL }}">
 
-    <link rel="stylesheet" type="text/css" href="{{ `css/normalize.css` | relURL }}">
-    <link rel="stylesheet" type="text/css" href="{{ `css/custom.css` | relURL }}">
+    {{ $styleNorm := resources.Get "css/normalize.css" | minify | fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ $styleNorm.Permalink }}">
+    {{ $styleMain := resources.Get "css/backaboulder.css" | minify | fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ $styleMain.Permalink }}">
 
-    {{ if .IsTranslated }}{{ range .Translations }}<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}"/>{{ end }} {{ end }}
+    {{ if .IsTranslated }}
+      {{ range .Translations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}"/>
+      {{ end }}
+    {{ end }}
   </head>
   <body>
     {{ partial "header" . }}
