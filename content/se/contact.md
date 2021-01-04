@@ -1,5 +1,5 @@
 ---
-title: "Backa Boulder kontakt"
+title: "Kontakt"
 description: "Kontakta Backa boulder"
 draft: false
 slug: "kontakt"
