@@ -5,8 +5,8 @@
       {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
       {{ with .GetPage "prices" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ with .GetPage "contact" }}<li><a href="{{ with .GetPage "contact" }}{{ .Permalink }}{{ end }}">{{ .Title }}</a></li>{{ end }}
-      -&emsp;
+      {{ with .GetPage "contact" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+      <span>⁓</span>
       {{ if .IsTranslated }}{{ range .Translations }}<li><a href="{{ .Permalink }}" class="translation">{{ .Language.Params.LanguageCode }}</a></li>{{ end }}{{ end }}
     </ul>
   </nav>
