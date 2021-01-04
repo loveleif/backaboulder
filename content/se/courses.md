@@ -1,5 +1,5 @@
 ---
-title: "Backa boulder courses"
+title: "Kurser"
 description: "Backa boulder kurser i klättring"
 draft: false
 slug: "kurser"

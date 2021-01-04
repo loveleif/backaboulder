@@ -1,5 +1,5 @@
 ---
-title: "Kurser"
+title: "Courses"
 description: "Courses at Backa Boulder"
 draft: false
 ---

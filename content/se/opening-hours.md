@@ -1,5 +1,5 @@
 ---
-title: "Backa boulder öppettider"
+title: "Öppet"
 description: "Backa boulder öppettider"
 draft: false
 slug: "öppettider"
