@@ -1,5 +1,6 @@
 ---
-title: "Hej"
+title: "Backa Boulder"
+description: "Göteborgs modernaste bouldering gym på Hisingen"
 draft: false
 ---
 

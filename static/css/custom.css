@@ -1,19 +1,25 @@
 @font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 400;
+  font-family: 'Josefin Sans';
+  font-style: italic;
+  font-weight: bold;
   font-display: swap;
-  src: url("../fonts/Inter-Regular.woff2?v=3.15") format("woff2"),
-  url("../fonts/static/Inter-Regular.woff?v=3.15") format("woff");
+  src: url("../fonts/JosefinSans-BoldItalic.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-weight: 900;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: bold;
   font-display: swap;
-  src: url("../fonts/Inter-Black.woff2?v=3.15") format("woff2"),
-  url("../fonts/Inter-Black.woff?v=3.15") format("woff");
+  src: url("../fonts/JosefinSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
 }
 
 html {
@@ -23,86 +29,114 @@ html {
 }
 
 body {
-  font-family: Roboto Mono,monospace;
-
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2rem;
   background: #fdf1d6;
+  line-height: 1.6;
+
   display: flex;
   flex-flow: column;
-  line-height: 1.6;
-  font-weight: 400;
-  font-size: 1.75rem;
 }
 
-h2 {
-  /* font-family: 'Josefin Sans', sans-serif; */
-  font-family: Inter;
-  font-weight: 900;
-  margin-top: 10rem;
-}
-
-svg.hold path {
-  fill: #345;
-}
-
-svg.hold path:hover {
-  fill: #f7c555;
-}
-
-
-path#hold:hover {
-  fill: #f7c555;
-}
-
-
-.social-media {
-  width: 3rem;
-}
-
-#header {
+header {
   width: 100%;
   background: #fdf1d6;
+  margin: 1rem;
+
   display: flex;
   flex-flow: row wrap;
   align-items: center;
   justify-content: space-between;
 }
 
-#footer {
-  padding: 3rem;
-  padding-bottom: 6rem;
-  font-size: small;
-  background: #38806a;
-  color: #fff;
-  position: relative;
-}
-
-#footer a {
-  color: #fff;
-}
-
-#top-logo {
-  padding: 1rem;
+.translation {
+  text-transform: uppercase;
 }
 
 #top-logo img {
-  width: 10rem;
+  width: 14rem;
+  margin-bottom: 3rem;
+  margin-right: 2rem;
+}
+
+nav {
+  margin-bottom: 3rem;
 }
 
 nav ul {
   display: flex;
   flex-flow: row wrap;
   list-style: none;
-  margin: 0
+  margin: 0;
+  padding: 0;
 }
 
 nav li {
-  font-family: 'Montserrat Subrayada', sans-serif;
-  font-size: 1.5rem;
   margin-right: 1.5rem;
 }
 
 nav li a {
-  color: #000;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: #13273b;
   text-decoration: none;
 }
 
+nav li a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  color: #13273b;
+  font-size: 4rem;
+  margin-top: 12rem;
+}
+
+main {
+  padding: 2em;
+}
+
+footer {
+  background: #38806a;
+  color: #fff;
+  font-size: small;
+
+  padding: 3rem 2rem 2rem 2rem;
+
+  display: flex;
+  flex-flow: column;
+}
+
+.footer-section {
+  margin-bottom: 3em;
+}
+
+footer a {
+  color: #fff;
+}
+
+.social-media {
+  width: 2rem;
+}
+
+@media (min-width: 45rem) {
+footer {
+
+  padding: 3rem 2rem 2rem 2rem;
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+main {
+  width: 30em;
+  padding-left: 16%;
+}
+
+}

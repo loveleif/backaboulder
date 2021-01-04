@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="224mm" height="165mm" version="1.1" viewBox="0 0 224 165" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g transform="translate(-7.57 -16.6)">
-  <path class="cls-1" d="m29.6 16.6h78.3c10 0 16 11.1 10.4 19.4l-91.8 138c-5.64 8.47-18.8 4.47-18.9-5.72l-0.037-129a21.9 21.9 0 0 1 21.9-21.9z" fill="#37806a" stroke-width=".265"/>
+<svg width="224mm" height="165mm" version="1.1" viewBox="0 0 224 165" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-7.57,-16.6)">
+  <path class="cls-1" d="m29.6 16.6h78.3c10 0 16 11.1 10.4 19.4l-91.8 138c-5.64 8.47-18.8 4.47-18.9-5.72l-0.037-129c0-12.1 9.805-22.68 21.9-22.68z" fill="#37806a" stroke-width=".265"/>
   <circle class="cls-2" cx="82.2" cy="80.1" r="33.9" fill="#f7c554" stroke-width=".265"/>
   <g class="cls-3" transform="matrix(.265 0 0 .265 7.63 16.6)" fill="#37806a" shape-rendering="auto" aria-label="BACKA">
    <path d="m422 397c10.4 0 18.7 2.13 24.9 6.39 6.16 4.17 9.25 10.4 9.25 18.8 0 6.16-1.54 11.3-4.62 15.5-2.99 4.08-7.12 7.16-12.4 9.25-5.17 1.99-11.1 2.99-17.8 2.99l-3.13-10.6c8.25 0 15.5 1.13 21.9 3.4 6.44 2.27 11.5 5.53 15.2 9.79 3.72 4.17 5.57 9.2 5.57 15.1 0 5.44-0.997 10.1-2.99 13.9-1.9 3.72-4.53 6.75-7.89 9.11-3.26 2.27-6.98 3.94-11.1 5.03-4.17 0.997-8.47 1.5-12.9 1.5h-33.3v-100zm2.31 40.9c3.9 0 6.75-1.18 8.57-3.53 1.9-2.36 2.86-5.03 2.86-8.02 0-3.44-1.18-6.03-3.53-7.75-2.27-1.72-5.35-2.58-9.25-2.58h-10.6v21.9zm0.68 40.8c2.9 0 5.53-0.363 7.89-1.09 2.36-0.816 4.21-2.04 5.57-3.67 1.36-1.72 2.04-3.85 2.04-6.39 0-2.9-0.816-5.08-2.45-6.53-1.63-1.54-3.76-2.58-6.39-3.13-2.54-0.634-5.21-0.952-8.02-0.952h-11.3v21.8z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#37806a" image-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
