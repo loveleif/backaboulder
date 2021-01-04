@@ -25,7 +25,9 @@
   <body>
     {{ partial "header" . }}
     <main>
-    {{ block "main" . }}{{ end }}
+      <div id="main-container">
+        {{ block "main" . }}{{ end }}
+      </div>
     </main>
     {{ partial "footer" . }}
   </body>
