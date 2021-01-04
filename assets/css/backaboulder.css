@@ -77,7 +77,7 @@ nav ul {
 }
 
 nav li, nav span {
-  margin-right: 1.5rem;
+  margin-right: 0.5rem;
 }
 
 nav li a, nav span {
@@ -168,6 +168,10 @@ footer a {
 
   nav ul {
     flex-flow: row wrap;
+  }
+
+  nav li, nav span {
+    margin-right: 1.35rem;
   }
 
   header {

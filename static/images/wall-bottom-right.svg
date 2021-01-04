@@ -1,6 +1,6 @@
 <svg width="62.3mm" height="114mm" version="1.1" viewBox="0 0 62.3 114" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-147 -183)">
+ <g transform="translate(-147,-183)">
   <path d="m147 297 62.3 2e-5v-114l-30.2 74.1z" style="fill-opacity:.7;fill:#38806a"/>
-  <path d="m147 297 36.9-34 25.4-79.7v114z" style="fill:#38806a"/>
+  <path d="m147 297 39.5-37.1 22.8-76.6v114z" style="fill:#38806a"/>
  </g>
 </svg>
