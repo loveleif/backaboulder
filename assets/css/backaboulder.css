@@ -38,7 +38,7 @@ body {
   display: flex;
   flex-flow: column;
 
-  background-image: url("../images/wall-top-left-3.svg");
+  background-image: url("../images/wall-top-left.svg");
   background-repeat: no-repeat;
   background-size: 25rem;
 }
