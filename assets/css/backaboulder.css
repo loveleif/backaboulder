@@ -38,7 +38,7 @@ body {
   display: flex;
   flex-flow: column;
 
-  background-image: url("../images/wall-top-left.svg");
+  background-image: url("../images/wall-top-left-3.svg");
   background-repeat: no-repeat;
   background-size: 25rem;
 }
@@ -48,7 +48,7 @@ header {
 
   display: flex;
   flex-flow: row wrap;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
 
   z-index: 1;
@@ -59,18 +59,19 @@ header {
 }
 
 #top-logo img {
-  width: 5.5rem;
+  width: 7rem;
   margin-bottom: 3rem;
   margin-right: 2rem;
 }
 
 nav {
+  margin-top: 2rem;
   margin-bottom: 3rem;
 }
 
 nav ul {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column nowrap;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -104,7 +105,14 @@ h2 {
 }
 
 main {
+  width: 100%;
   padding: 2em;
+  box-sizing: border-box;
+
+  background-image: url("../images/wall-bottom-right.svg");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 16rem;
 }
 
 footer {
@@ -131,18 +139,36 @@ footer a {
 }
 
 @media (min-width: 45rem) {
-footer {
+  footer {
 
-  padding: 3rem 2rem 2rem 2rem;
+    padding: 3rem 2rem 2rem 2rem;
 
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: space-evenly;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+  }
+
+  p {
+    width: 30rem;
+    margin-left: 16%;
+  }
+
+  h2 {
+    width: 30rem;
+    margin-left: 16%;
+  }
 }
 
-main {
-  width: 30em;
-  padding-left: 16%;
-}
+@media (min-width: 55rem) {
+  nav {
+    margin-top: 0;
+  }
 
+  nav ul {
+    flex-flow: row wrap;
+  }
+
+  header {
+    align-items: center;
+  }
 }

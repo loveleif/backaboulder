@@ -1,6 +1,6 @@
-<svg width="43.45mm" height="68.68mm" version="1.1" viewBox="0 0 43.45 68.68" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-202 -243.9)">
-  <path d="m202 312.5 16.19-54.31 27.27-14.37-43.45 0.1382z" style="fill:#f9eac5"/>
-  <path d="m202 312.5v-68.54l43.45-0.1382-30.85 9.121-12.6 59.56" style="fill:#f7e3b1"/>
+<svg width="43.5mm" height="63.5mm" version="1.1" viewBox="0 0 43.5 63.5" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-202 -244)">
+  <path d="m202 307 21.4-48.1 22-15.4h-43.4z" style="fill:#f9eac5"/>
+  <path d="m202 307v-63.5h43.4l-26.9 11.8-16.5 51.7" style="fill:#f7e3b1"/>
  </g>
 </svg>
