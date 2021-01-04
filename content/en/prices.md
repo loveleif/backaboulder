@@ -1,5 +1,6 @@
 ---
 title: "Prices"
+description: "Backa boulder priser"
 draft: false
 ---
 

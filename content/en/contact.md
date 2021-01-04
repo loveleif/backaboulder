@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+description: "Contact Backa Boulder"
 draft: false
 ---
 

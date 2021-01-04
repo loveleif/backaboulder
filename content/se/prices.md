@@ -1,5 +1,6 @@
 ---
-title: "Priser"
+title: "Backa boulder priser"
+description: "Backa boulder priser"
 draft: false
 slug: "priser"
 ---
