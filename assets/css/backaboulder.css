@@ -40,7 +40,7 @@ body {
 
   background-image: url("../images/wall-top-left.svg");
   background-repeat: no-repeat;
-  background-size: 20rem;
+  background-size: 16rem;
 }
 
 header {
@@ -103,6 +103,10 @@ h2 {
   line-height: 1;
 }
 
+#main-container {
+
+}
+
 main {
   width: 100%;
   padding: 2em;
@@ -111,7 +115,7 @@ main {
   background-image: url("../images/wall-bottom-right.svg");
   background-repeat: no-repeat;
   background-position: right bottom;
-  background-size: 16rem;
+  background-size: 12rem;
 }
 
 footer {
@@ -147,12 +151,7 @@ footer a {
     justify-content: space-evenly;
   }
 
-  p {
-    width: 30rem;
-    margin-left: 16%;
-  }
-
-  h2 {
+  #main-container {
     width: 30rem;
     margin-left: 16%;
   }
@@ -161,6 +160,10 @@ footer a {
 @media (min-width: 45rem) {
   body {
     background-size: 25rem;
+  }
+
+  main {
+    background-size: 16rem;
   }
 
   nav ul {
@@ -172,6 +175,6 @@ footer a {
   }
 
   #top-logo img {
-    width: 7rem;
+    width: 7.5rem;
   }
 }
