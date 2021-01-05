@@ -141,6 +141,10 @@ footer a {
   width: 2rem;
 }
 
+address {
+  font-style: normal;
+}
+
 @media (min-width: 45rem) {
   footer {
 
