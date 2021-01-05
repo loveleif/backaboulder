@@ -31,7 +31,7 @@ html {
 body {
   width: 100%;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   background: #fdf1d6;
   line-height: 1.6;
 
@@ -40,7 +40,7 @@ body {
 
   background-image: url("../images/wall-top-left.svg");
   background-repeat: no-repeat;
-  background-size: 16rem;
+  background-size: 21rem;
 }
 
 header {
@@ -59,7 +59,7 @@ header {
 }
 
 #top-logo img {
-  width: 5.9rem;
+  width: 6.4rem;
   margin-bottom: 3rem;
   margin-right: 2rem;
 }
@@ -115,7 +115,7 @@ main {
   background-image: url("../images/wall-bottom-right.svg");
   background-repeat: no-repeat;
   background-position: right bottom;
-  background-size: 12rem;
+  background-size: 10rem;
 }
 
 footer {
@@ -163,7 +163,7 @@ footer a {
   }
 
   main {
-    background-size: 16rem;
+    background-size: 15rem;
   }
 
   nav ul {

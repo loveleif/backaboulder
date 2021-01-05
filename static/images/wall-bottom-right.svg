@@ -1,6 +1,7 @@
-<svg width="62.3mm" height="114mm" version="1.1" viewBox="0 0 62.3 114" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-147,-183)">
-  <path d="m147 297 62.3 2e-5v-114l-30.2 74.1z" style="fill-opacity:.7;fill:#38806a"/>
-  <path d="m147 297 39.5-37.1 22.8-76.6v114z" style="fill:#38806a"/>
+<svg width="79.15mm" height="142.8mm" version="1.1" viewBox="0 0 79.15 142.8" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-75.44 -64.67)" style="mix-blend-mode:normal">
+  <path d="m75.44 207.5 79.1-2e-3v-142.8z" style="fill:#377a66"/>
+  <path d="m75.44 207.5 50.18-26.27 28.96-116.5z" style="fill:#3f8d74"/>
+  <path d="m154.5 64.67-28.92 116.5 28.92 26.27z" style="fill:#336e5e"/>
  </g>
 </svg>
