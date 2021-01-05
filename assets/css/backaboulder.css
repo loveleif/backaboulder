@@ -83,8 +83,9 @@ nav li, nav span {
 nav li a, nav span {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: bold;
-  font-size: 1.4rem;
   color: #13273b;
+  font-size: 1.1rem;
+
   text-decoration: none;
 }
 
@@ -98,7 +99,7 @@ h2 {
   font-weight: bold;
   font-style: italic;
   color: #13273b;
-  font-size: 4rem;
+  font-size: 3.6rem;
   margin-top: 2rem;
   line-height: 1;
 }
