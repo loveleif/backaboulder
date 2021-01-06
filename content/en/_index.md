@@ -1,5 +1,6 @@
 ---
 title: "Backa Boulder"
+menuName: "Home"
 description: "Backa Boulder"
 draft: false
 ---

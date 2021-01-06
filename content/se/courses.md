@@ -1,5 +1,6 @@
 ---
 title: "Kurser"
+menuName: "Kurser"
 description: "Backa boulder kurser i klättring"
 draft: false
 slug: "kurser"

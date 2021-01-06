@@ -1,5 +1,6 @@
 ---
 title: "Backa Boulder"
+menuName: "Hem"
 description: "Göteborgs modernaste bouldering gym på Hisingen"
 draft: false
 ---

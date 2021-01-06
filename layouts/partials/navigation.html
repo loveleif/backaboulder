@@ -1,8 +1,9 @@
 <nav>
   <ul>
-    {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-    {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-    {{ with .GetPage "prices" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-    {{ with .GetPage "contact" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
+    {{ with .GetPage "/" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+    {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+    {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+    {{ with .GetPage "prices" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+    {{ with .GetPage "contact" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
   </ul>
 </nav>

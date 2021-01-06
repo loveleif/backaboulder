@@ -1,5 +1,6 @@
 ---
 title: "Opening Hours"
+menuName: "Open"
 description: "Backa Boulder opening hours"
 draft: false
 ---
