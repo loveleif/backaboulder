@@ -10,13 +10,13 @@ DefaultContentLanguage = "se"
     weight = 1
     contentDir = "content/se"
     [languages.se.params]
-      FlagPath = "images/se.svg"
       LanguageCode = "se"
+      UseString = "På svenska"
   [languages.en]
     languageName = "English"
     title = "Bengtsson the baker"
     weight = 2
     contentDir = "content/en"
     [languages.en.params]
-      FlagPath = "images/en.svg"
       LanguageCode = "en"
+      UseString = "In English"

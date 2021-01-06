@@ -15,6 +15,14 @@
 }
 
 @font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/JosefinSans-Light.ttf") format("truetype");
+}
+
+@font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: normal;
@@ -40,7 +48,7 @@ body {
 
   background-image: url("../images/wall-top-left.svg");
   background-repeat: no-repeat;
-  background-size: 21rem;
+  background-size: 80%;
 }
 
 header {
@@ -58,17 +66,21 @@ header {
   text-transform: uppercase;
 }
 
+#top-logo {
+  width: 20%;
+}
+
 #top-logo img {
-  width: 6.4rem;
+  width: 100%;
   margin-bottom: 3rem;
   margin-right: 2rem;
 }
 
-nav {
+header nav {
   margin-bottom: 3rem;
 }
 
-nav ul {
+header ul {
   display: flex;
   flex-flow: column nowrap;
   list-style: none;
@@ -76,21 +88,27 @@ nav ul {
   padding: 0;
 }
 
-nav li, nav span {
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header li, header span {
   margin-right: 0.5rem;
 }
 
-nav li a, nav span {
+header li a, header span {
   font-family: 'Josefin Sans', sans-serif;
-  font-weight: bold;
+  font-weight: 300;
   color: #13273b;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 
   text-decoration: none;
 }
 
-nav li a:hover {
-  color: #000;
+header li a:hover {
+  color: #f7c554;
   text-decoration: underline;
 }
 
@@ -102,10 +120,6 @@ h2 {
   font-size: 3.6rem;
   margin-top: 2rem;
   line-height: 1;
-}
-
-#main-container {
-
 }
 
 main {
@@ -163,19 +177,24 @@ address {
 }
 
 @media (min-width: 45rem) {
+
   body {
-    background-size: 25rem;
+    background-size: 30rem;
   }
 
   main {
     background-size: 15rem;
   }
 
-  nav ul {
+  header nav {
+    display: block;
+  }
+
+  header ul {
     flex-flow: row wrap;
   }
 
-  nav li, nav span {
+  header li, header span {
     margin-right: 1.35rem;
   }
 
@@ -184,6 +203,6 @@ address {
   }
 
   #top-logo img {
-    width: 7.5rem;
+    width: 7.2rem;
   }
 }
