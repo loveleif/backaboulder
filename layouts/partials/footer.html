@@ -1,6 +1,12 @@
 <footer>
-  <div class="footer-section">
+  <div id="footer-navigation" style="margin-bottom: 2rem; display: flex; flex-flow: column">
+  <img src="{{ `images/logo-white-variant.svg` | relURL }}" style="width: 4rem; margin-bottom: 0.5rem"/>
+    {{ partial "navigation" . }}
+    <span>&nbsp;</span>
+    {{ partial "translations" . }}
+  </div>
 
+  <div class="footer-section">
     <a href="https://www.facebook.com/Backa-Boulder-100431848484291/"><img src="{{ `images/f_logo_RGB-White_58.png` | relURL }}" width="30" class="social-media"/></a>
     <a href="https://www.instagram.com/backaboulder"><img src="{{ `images/instagram.png` | relURL }}" width="30" class="social-media"/></a>
     <br/>
