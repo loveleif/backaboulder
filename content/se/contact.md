@@ -5,7 +5,7 @@ draft: false
 slug: "kontakt"
 ---
 
-## Kontakt
+# Kontakt
 
 [Maila oss](mailto:info@backaboulder.se), [ring oss](tel:+4670123456), 
 [besök oss](https://goo.gl/maps/LBd7mzy1dTUAxJ9x6) eller trollbinds av vår närvaro på 

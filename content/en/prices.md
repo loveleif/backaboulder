@@ -4,7 +4,7 @@ description: "Backa boulder priser"
 draft: false
 ---
 
-## Prices
+# Prices
 
 |                      |            |
 |----------------------|------------|

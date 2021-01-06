@@ -5,7 +5,7 @@ draft: false
 slug: "kurser"
 ---
 
-## Kurser
+# Kurser
 
 Vi annordnar bland annar kurser för:
 

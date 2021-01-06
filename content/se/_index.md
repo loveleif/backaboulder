@@ -4,7 +4,7 @@ description: "Göteborgs modernaste bouldering gym på Hisingen"
 draft: false
 ---
 
-## Backa Boulder
+# Backa Boulder
 
 Välkommen till Göteborgs modernaste klättergym. Våra lokaler byggdes 2017 och 
 klätterväggarna 2021. Vi är ett nystartat Bouldergym mitt på Hjalmar 

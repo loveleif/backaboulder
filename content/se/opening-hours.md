@@ -5,7 +5,7 @@ draft: false
 slug: "öppettider"
 ---
 
-## Öppettider
+# Öppettider
 
 Vi har öppet följande tider, avvikelser kan förekomma på och kring röda dagar.
 

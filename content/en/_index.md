@@ -4,7 +4,7 @@ description: "Backa Boulder"
 draft: false
 ---
 
-## Backa Boulder
+# Backa Boulder
 
 Welcome to Gothenburg's most modern climbing gym. Our premises were built in 2017 and
 the climbing walls in 2021. We are a newly started Boulder gym in the middle of Hjalmar

@@ -4,7 +4,7 @@ description: "Courses at Backa Boulder"
 draft: false
 ---
 
-## Courses
+# Courses
 
 We have courses for:
 
