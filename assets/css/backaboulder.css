@@ -1,19 +1,3 @@
-@font-face {
-  font-family: 'Josefin Sans';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url("../fonts/JosefinSans-Light.woff") format("woff");
-}
-
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: normal;
-  font-display: swap;
-  src: url("../fonts/OpenSans-Regular.woff2") format("woff2");
-}
-
 html {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -29,10 +13,6 @@ body {
 
   display: flex;
   flex-flow: column;
-
-  background-image: url("../images/wall-top-left.svg");
-  background-repeat: no-repeat;
-  background-size: 80%;
 }
 
 header {
@@ -54,9 +34,15 @@ header {
   width: 21%;
 }
 
+.header-and-main {
+  background-image: url("../images/wall-top-left.svg"), url("../images/wall-bottom-right.svg");
+  background-repeat: no-repeat;
+  background-position: top left, right bottom;
+  background-size: 80%, 10rem;
+}
+
 #top-logo img {
   width: 100%;
-  margin-bottom: 3rem;
   margin-right: 2rem;
 }
 
@@ -120,10 +106,7 @@ main {
   padding: 2em;
   box-sizing: border-box;
 
-  background-image: url("../images/wall-bottom-right.svg");
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: 10rem;
+
 }
 
 footer {
@@ -171,12 +154,9 @@ address {
 
 @media (min-width: 45rem) {
 
-  body {
-    background-size: 30rem;
-  }
+  .header-and-main {
+    background-size: 30rem, 15rem;
 
-  main {
-    background-size: 15rem;
   }
 
   header nav {
