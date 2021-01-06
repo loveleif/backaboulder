@@ -143,6 +143,10 @@ footer a {
   color: #fff;
 }
 
+footer a:hover {
+  color: #f7c554;
+}
+
 .social-media {
   width: 2rem;
 }
