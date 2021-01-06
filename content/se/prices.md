@@ -5,7 +5,7 @@ draft: false
 slug: "priser"
 ---
 
-## Priser
+# Priser
 
 |                      |            |
 |----------------------|------------|

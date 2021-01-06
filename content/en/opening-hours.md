@@ -4,7 +4,7 @@ description: "Backa Boulder opening hours"
 draft: false
 ---
 
-## Opening Hours
+# Opening Hours
 
 |          |       |
 |----------|-------|
