@@ -30,6 +30,20 @@ header {
   text-transform: uppercase;
 }
 
+td {
+  padding-right: 3rem;
+  padding-bottom: 0.25rem;
+  padding-top: 0.25rem;
+}
+
+tr {
+  border-bottom: 0.1rem solid #ffe096;
+}
+
+.price {
+  text-align: right;
+}
+
 #top-logo {
   width: 21%;
 }

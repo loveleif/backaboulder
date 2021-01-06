@@ -15,3 +15,24 @@ other = "Lör-sön"
 
 [and]
 other = "och"
+
+[singleEntrance]
+other = "En gång"
+
+[times]
+other = "gånger"
+
+[months]
+other = "månader"
+
+[student]
+other = "Student"
+
+[childrenUnderSix]
+other = "Barn under sex år"
+
+[free]
+other = "gratis"
+
+[discount]
+other = "rabatt"

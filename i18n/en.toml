@@ -15,3 +15,24 @@ other = "Sat-Sun"
 
 [and]
 other = "and"
+
+[singleEntrance]
+other = "Single"
+
+[times]
+other = "times"
+
+[months]
+other = "months"
+
+[student]
+other = "Student"
+
+[childrenUnderSix]
+other = "Children under six years"
+
+[free]
+other = "free"
+
+[discount]
+other = "discount"
