@@ -1,5 +1,6 @@
 ---
-title: "Contact"
+title: "Contact Backa Boulder"
+menuName: "Contact"
 description: "Contact Backa Boulder"
 draft: false
 ---

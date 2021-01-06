@@ -1,12 +1,17 @@
 <header>
-  <a href="/" id="top-logo"><img src="{{ `images/logo.svg` | relURL }}" alt="Backa boulder logotype" /></a>
+  {{ with .GetPage "/" }}<a href="{{ .Permalink }}" id="top-logo"><img src="{{ `images/logo.svg` | relURL }}" alt="Backa boulder logotype" /></a>{{ end }}
   <nav>
     <ul>
-      {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ with .GetPage "prices" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ with .GetPage "contact" }}<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>{{ end }}
-      {{ if .IsTranslated }}{{ range .Translations }}<li><a href="{{ .Permalink }}" class="translation">{{ .Language.Params.LanguageCode }}</a></li>{{ end }}{{ end }}
+      {{ with .GetPage "/" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+      {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+      {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+      {{ with .GetPage "prices" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+      {{ with .GetPage "contact" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+      {{ if .IsTranslated }}
+      {{ range .Translations }}
+      <li><a href="{{ .Permalink }}" class="translation">{{ .Language.Params.LanguageCode }}</a></li>
+      {{ end }}
+      {{ end }}
     </ul>
   </nav>
 </header>
