@@ -26,12 +26,14 @@
     {{ end }}
   </head>
   <body>
+    <div class="header-and-main">
     {{ partial "header" . }}
     <main>
       <div id="main-container">
         {{ block "main" . }}{{ end }}
       </div>
     </main>
+    </div>
     {{ partial "footer" . }}
   </body>
 </html>
