@@ -1,0 +1,34 @@
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td>{{ i18n "singleEntrance" }}</td>
+      <td class="price">{{ .Site.Data.prices.single }} kr</td>
+    </tr>
+    <tr>
+      <td>10 {{ i18n "times" }}</td>
+      <td class="price">{{ .Site.Data.prices.times10 }} kr</td>
+    </tr>
+    <tr>
+      <td>25 {{ i18n "times" }}</td>
+      <td class="price">{{ .Site.Data.prices.times25 }} kr</td>
+    </tr>
+    <tr>
+      <td>6 {{ i18n "months" }}</td>
+      <td class="price">{{ .Site.Data.prices.months6 }} kr</td>
+    </tr>
+    <tr>
+      <td>12 {{ i18n "months" }}</td>
+      <td class="price">{{ .Site.Data.prices.months12 }} kr</td>
+    </tr>
+    <tr>
+      <td>{{ i18n "student" }}</td>
+      <td class="price">{{ .Site.Data.prices.studentDiscount }} {{ i18n "discount" }}</td>
+    </tr>
+    <tr>
+      <td>{{ i18n "childrenUnderSix" }}</td>
+      <td class="price">{{ i18n "free" }}*</td>
+    </tr>
+  </tbody>
+</table>
