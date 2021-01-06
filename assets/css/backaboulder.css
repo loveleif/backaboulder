@@ -70,6 +70,7 @@ header ul {
   list-style: none;
   margin: 0;
   padding: 0;
+  text-align: right;
 }
 
 footer ul {
@@ -84,11 +85,12 @@ header li, header span {
 
 header li a, header span {
   font-family: 'Josefin Sans', sans-serif;
-  font-weight: 300;
-  color: #13273b;
-  font-size: 1.2rem;
+  font-weight: 400;
+  color: #38806a;
+  font-size: 1rem;
 
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 header li a:hover {
@@ -105,7 +107,7 @@ h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 100;
   text-transform: uppercase;
-  color: #13273b;
+  color: #000;
   font-size: 3.4rem;
   margin-top: 2rem;
   line-height: 1;
