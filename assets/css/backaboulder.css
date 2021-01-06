@@ -3,15 +3,7 @@
   font-style: italic;
   font-weight: bold;
   font-display: swap;
-  src: url("../fonts/JosefinSans-BoldItalic.ttf") format("truetype");
-}
-
-@font-face {
-  font-family: 'Josefin Sans';
-  font-style: normal;
-  font-weight: bold;
-  font-display: swap;
-  src: url("../fonts/JosefinSans-Bold.ttf") format("truetype");
+  src: url("../fonts/JosefinSans-BoldItalic.woff") format("woff");
 }
 
 @font-face {
@@ -19,7 +11,7 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url("../fonts/JosefinSans-Light.ttf") format("truetype");
+  src: url("../fonts/JosefinSans-Light.woff") format("woff");
 }
 
 @font-face {
@@ -27,7 +19,7 @@
   font-style: normal;
   font-weight: normal;
   font-display: swap;
-  src: url("../fonts/OpenSans-Regular.ttf") format("truetype");
+  src: url("../fonts/OpenSans-Regular.woff2") format("woff2");
 }
 
 html {
