@@ -107,14 +107,14 @@ h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 100;
   text-transform: uppercase;
-  color: #000;
+  color: #1c4035;
   font-size: 3.4rem;
   margin-top: 2rem;
   line-height: 1;
 }
 
 h1:hover {
-  color: #f7c554;
+  color: #403316;
 }
 
 main {
