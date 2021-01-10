@@ -48,11 +48,18 @@ tr {
   width: 21%;
 }
 
-.header-and-main {
-  background-image: url("../images/wall-top-left.svg"), url("../images/wall-bottom-right.svg");
-  background-repeat: no-repeat;
-  background-position: top left, right bottom;
-  background-size: 80%, 10rem;
+#main-container {
+  position: relative;
+  width: 100%;
+}
+
+#wall-bottom {
+  position: absolute;
+  width: 100%;
+  height: 16rem;
+  bottom: 0;
+  right: 0;
+  z-index: 0;
 }
 
 #top-logo img {
@@ -103,13 +110,20 @@ header li a:active {
   text-decoration: underline;
 }
 
+#wall-top {
+  position: absolute;
+  width: 80%;
+  top: 0;
+  left: 0;
+}
+
 h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 100;
   text-transform: uppercase;
   color: #1c4035;
   font-size: 3.4rem;
-  margin-top: 2rem;
+  margin-top: 4rem;
   line-height: 1;
 }
 
@@ -118,11 +132,11 @@ h1:hover {
 }
 
 main {
-  width: 100%;
-  padding: 2em;
-  box-sizing: border-box;
+  position: relative;
   min-height: 22rem;
-  margin-bottom: 2rem;
+  padding: 0 2rem 0 2rem;
+  z-index: 10;
+  margin-bottom: 5rem;
 }
 
 footer {
@@ -165,14 +179,22 @@ address {
     flex-flow: row wrap;
     justify-content: space-evenly;
   }
-
-  #main-container {
-    width: 30rem;
-    margin-left: 16%;
-  }
 }
 
 @media (min-width: 45rem) {
+
+  #wall-top {
+    width: 30rem;
+  }
+
+  #wall-bottom {
+    height: 32rem;
+  }
+
+  main {
+    width: 30rem;
+    margin-left: 15%;
+  }
 
   .header-and-main {
     background-size: 30rem, 15rem;
@@ -197,5 +219,17 @@ address {
 
   #top-logo img {
     width: 7.6rem;
+  }
+
+  #wall-bottom g:hover .a {
+    fill: #e1a62a;
+  }
+
+  #wall-bottom g:hover .b {
+    fill: #f7c554;
+  }
+
+  #wall-bottom g:hover .c {
+    fill: #c89b35;
   }
 }
