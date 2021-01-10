@@ -11,7 +11,7 @@ test:
 
 pages:
   script:
-  - hugo --minify
+  - hugo
   artifacts:
     paths:
     - public
