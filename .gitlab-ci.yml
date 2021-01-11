@@ -5,13 +5,13 @@ variables:
 
 test:
   script:
-  - hugo --minify
+  - hugo
   except:
   - master
 
 pages:
   script:
-  - hugo --minify
+  - hugo
   artifacts:
     paths:
     - public
