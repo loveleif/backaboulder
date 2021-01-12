@@ -36,3 +36,6 @@ other = "free"
 
 [discount]
 other = "discount"
+
+[station]
+other = "Station"
