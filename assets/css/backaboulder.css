@@ -62,6 +62,7 @@ tr {
 
 header nav {
   position: relative;
+  margin-top: 0.25rem;
   margin-bottom: 3rem;
   float: right;
   z-index: 1;
@@ -223,7 +224,7 @@ address {
   }
 
   header nav {
-    margin-top: 1.9rem;
+    margin-top: 1.8rem;
   }
 
   header ul {
