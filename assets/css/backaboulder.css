@@ -119,7 +119,6 @@ h1 {
   text-transform: uppercase;
   color: #1c4035;
   font-size: 3.2rem;
-  margin-top: 6rem;
   line-height: 1;
 }
 
@@ -129,10 +128,10 @@ h1:hover {
 
 main {
   position: relative;
-  min-height: 22rem;
+  top: 6rem;
   padding: 0 2rem 0 2rem;
   z-index: 10;
-  margin-bottom: 5rem;
+  margin-bottom: 10rem;
 }
 
 footer {
@@ -208,7 +207,8 @@ address {
   }
 
   #wall-bottom svg {
-    height: 28rem;
+    width: 26rem;
+    height: 26rem;
   }
 
   main {
