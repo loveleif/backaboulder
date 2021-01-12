@@ -7,20 +7,31 @@ html {
 
 body {
   width: 100%;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1.1rem;
   background: #fdf1d6;
-  line-height: 1.6;
 
   display: flex;
   flex-flow: column;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.6;
 }
 
-header {
-}
-
-.translation {
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 100;
+  color: #1c4035;
   text-transform: uppercase;
+  font-size: 3.2rem;
+  line-height: 1;
+}
+
+h1:hover {
+  color: #403316;
+}
+
+tr {
+  border-bottom: 0.1rem solid #ffe096;
 }
 
 td {
@@ -29,18 +40,16 @@ td {
   padding-top: 0.25rem;
 }
 
-tr {
-  border-bottom: 0.1rem solid #ffe096;
+.translation {
+  text-transform: uppercase;
 }
 
 .price {
   text-align: right;
 }
 
-
-#main-container {
-  position: relative;
-  width: 100%;
+#wall-top {
+  width: 80%;
 }
 
 #wall-bottom {
@@ -53,11 +62,6 @@ tr {
   bottom: 0;
   right: 0;
   height: 20rem;
-}
-
-#top-logo img {
-  width: 100%;
-  margin-right: 2rem;
 }
 
 header nav {
@@ -77,20 +81,15 @@ header ul {
   text-align: right;
 }
 
-footer ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 header li, header span {
   margin-right: 0.5rem;
 }
 
 header li a, header span {
+  color: #38806a;
+
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 400;
-  color: #38806a;
   font-size: 1rem;
 
   text-decoration: none;
@@ -107,32 +106,18 @@ header li a:active {
   text-decoration: underline;
 }
 
-#wall-top {
-  position: absolute;
-  width: 80%;
-  top: 0;
-  left: 0;
-}
-
-h1 {
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 100;
-  text-transform: uppercase;
-  color: #1c4035;
-  font-size: 3.2rem;
-  line-height: 1;
-}
-
-h1:hover {
-  color: #403316;
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 main {
   position: relative;
-  top: 6rem;
+  top: 1rem;
   padding: 0 2rem 0 2rem;
   z-index: 10;
-  margin-bottom: 10rem;
+  margin-bottom: 7rem;
 }
 
 footer {
@@ -165,7 +150,6 @@ address {
   font-style: normal;
 }
 
-
 #alles:hover .a {
   fill: #fae6b4ff;
 }
@@ -192,9 +176,7 @@ address {
 
 @media (min-width: 45rem) {
   footer {
-
     padding: 3rem 2rem 2rem 2rem;
-
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
@@ -202,7 +184,6 @@ address {
 }
 
 @media (min-width: 46rem) {
-
   #wall-top {
     width: 30rem;
   }
@@ -213,14 +194,14 @@ address {
   }
 
   main {
+
+  }
+
+  main {
     width: 30rem;
     left: 15%;
     padding: 0;
-  }
-
-  .header-and-main {
-    background-size: 30rem, 15rem;
-
+    top: 5rem;
   }
 
   header nav {
@@ -233,13 +214,5 @@ address {
 
   header li, header span {
     margin-right: 1.35rem;
-  }
-
-  header {
-
-  }
-
-  #wall-top {
-    width: 30rem;
   }
 }
