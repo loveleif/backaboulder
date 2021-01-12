@@ -1,5 +1,37 @@
 <header>
-  {{ with .GetPage "/" }}<a href="{{ .Permalink }}" id="top-logo"><img src="{{ `images/logo.svg` | relURL }}" alt="Backa boulder logotype" /></a>{{ end }}
+  <div id="wall-top" style="position: relative; top: 0; left: 0; z-index: 0">
+
+    <svg style="position: absolute;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.122 32.519">
+      <style>.A{letter-spacing:-0.02em}.B{letter-spacing:-0.05em}</style>
+
+      {{ with .GetPage "/" }}<a href="{{ .Permalink }}" id="top-logo">
+
+      <g id="alles">
+        <path class="a" d="M0 32.519L24.222 7.9l24.9-7.882H0z" fill="#f9eac5"/>
+        <path class="b" d="M0 32.519L.014 0h49.108L18.676 6.057 0 32.519" fill="#f7e3b1"/>
+        <path class="c" d="M21.533 6.942l-2.657-.914c.022-.01.359-.082.749-.159L47.16.404 48.5.155a5072.91 5072.91 0 0 1-24.233 7.68c-.022 0-1.252-.403-2.736-.895z" fill="#fadf9f"/>
+
+
+      <g transform="matrix(.015611 0 0 .015611 1.058333 1.057954)">
+        <path d="M82.9.02h295.74c37.75 0 60.27 42.07 39.33 73.49L71.4 593.43C50.06 625.43.16 610.35.14 571.88L0 82.94A82.9 82.9 0 0 1 82.9.02z" fill="#37806a"/>
+        <circle cx="281.86" cy="239.79" r="128.28" fill="#f7c554"/>
+        <text transform="translate(379.75 497.21)" fill="#37806a" font-size="135.96" font-family="JosefinSans-Bold, Josefin Sans" font-weight="700">
+          <tspan class="A">B</tspan>
+          <tspan class="B" x="84.56" y="0">A</tspan>
+          <tspan x="172.39" y="0">CKA</tspan>
+        </text>
+        <text transform="translate(165.8 621.93)" fill="#37806a" font-size="135.96" font-family="JosefinSans-Bold, Josefin Sans" font-weight="700">BOULDER</text>
+      </g>
+      {{ end }}
+
+      </g>
+      </a>
+    </svg>
+
+
+
+  </div>
+
   <nav>
     <ul>
       {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}

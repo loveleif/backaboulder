@@ -14,7 +14,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
     <!-- Non blocking font loading https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/ -->
-    {{ $fontsCssUrl := "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400&family=Open+Sans&display=swap" }}
+    {{ $fontsCssUrl := "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400;700&family=Open+Sans&display=swap" }}
     <link rel="preload" as="style" href="{{ $fontsCssUrl }}" />
     <link rel="stylesheet" href="{{ $fontsCssUrl }}" media="print" onload="this.media='all'" />
     <noscript>
@@ -33,30 +33,20 @@
     {{ end }}
   </head>
   <body>
-    <div id="wall-top">
-      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 49.122 32.519"  xmlns:v="https://vecta.io/nano">
+    {{ partial "header" . }}
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <div id="wall-bottom">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 79.15 142.8" preserveAspectRatio="xMaxYMin meet">
         <g>
-          <path class="a" d="M0 32.519L24.222 7.9l24.9-7.882H0z" fill="#f9eac5"/>
-          <path d="M0 32.519L.014 0h49.108L18.676 6.057 0 32.519" fill="#f7e3b1"/>
-          <path d="M21.533 6.942l-2.657-.914c.022-.01.359-.082.749-.159L47.16.404 48.5.155a5072.91 5072.91 0 0 1-24.233 7.68c-.022 0-1.252-.403-2.736-.895z" fill="#fadf9f"/>
+          <path class="a" d="M0 142.83l79.1-.002V.028z" fill="#377a66"/>
+          <path class="b" d="M0 142.83l50.18-26.27L79.14.06z" fill="#3f8d74"/>
+          <path class="c" d="M79.06 0L50.14 116.5l28.92 26.27z" fill="#336e5e"/>
         </g>
       </svg>
     </div>
-    {{ partial "header" . }}
-    <div id="main-container">
-      <main>
-        {{ block "main" . }}{{ end }}
-      </main>
-      <div id="wall-bottom">
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 79.15 142.8" preserveAspectRatio="xMaxYMin meet">
-          <g>
-            <path class="a" d="M0 142.83l79.1-.002V.028z" fill="#377a66"/>
-            <path class="b" d="M0 142.83l50.18-26.27L79.14.06z" fill="#3f8d74"/>
-            <path class="c" d="M79.06 0L50.14 116.5l28.92 26.27z" fill="#336e5e"/>
-          </g>
-        </svg>
-      </div>
-    </div>
+
     {{ partial "footer" . }}
   </body>
 </html>
