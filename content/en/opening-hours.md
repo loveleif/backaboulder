@@ -7,9 +7,6 @@ draft: false
 
 # Opening Hours
 
-|          |       |
-|----------|-------|
-| Mon-Fri  | 10-22 |
-| Sat-Sun  | 10-19 |
+{{< opening-table >}}
 
 Deviating opening hours may occur on and around public holidays.

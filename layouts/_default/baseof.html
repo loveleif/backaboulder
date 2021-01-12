@@ -11,10 +11,10 @@
 
     <link rel="icon" sizes="any" type="image/svg+xml" href="{{ `images/favicon.svg` | relURL }}">
 
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
     <!-- Non blocking font loading https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/ -->
     {{ $fontsCssUrl := "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400;700&family=Open+Sans&display=swap" }}
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="preload" as="style" href="{{ $fontsCssUrl }}" />
     <link rel="stylesheet" href="{{ $fontsCssUrl }}" media="print" onload="this.media='all'" />
     <noscript>
@@ -46,7 +46,6 @@
         </g>
       </svg>
     </div>
-
     {{ partial "footer" . }}
   </body>
 </html>
