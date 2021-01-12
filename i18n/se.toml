@@ -36,3 +36,6 @@ other = "gratis"
 
 [discount]
 other = "rabatt"
+
+[station]
+other = "Hållplats"
