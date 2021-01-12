@@ -1,6 +1,18 @@
 <footer>
-  <div id="footer-navigation" style="margin-bottom: 2rem; display: flex; flex-flow: column">
-  <img src="{{ `images/logo-white-variant.svg` | relURL }}" style="width: 4rem; margin-bottom: 0.5rem"/>
+  <div id="footer-navigation" style="width: 3.9rem; margin-bottom: 2rem; display: flex; flex-flow: column">
+
+    <svg id="footer-logo" style="width: 4rem;" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 865.47 673.97">
+      <style>.D{letter-spacing:-0.02em}.E{letter-spacing:-0.05em}</style>
+      <path d="M82.9.02h295.74c37.75 0 60.27 42.07 39.33 73.49L71.4 593.43C50.06 625.43.16 610.35.14 571.88L0 82.94A82.9 82.9 0 0 1 82.9.02z" fill="#fff"/>
+      <circle cx="281.86" cy="239.79" r="128.28" fill="#f7c554"/>
+      <text transform="translate(379.75 497.21)" fill="#fff" font-size="135.96" font-family="JosefinSans-Bold,Josefin Sans" font-weight="700">
+        <tspan class="D">B</tspan>
+        <tspan class="E" x="84.56" y="0">A</tspan>
+        <tspan x="172.39" y="0">CKA</tspan>
+      </text>
+      <text transform="translate(165.8 621.93)" fill="#fff" font-size="135.96" font-family="JosefinSans-Bold,Josefin Sans" font-weight="700">BOULDER</text>
+    </svg>
+
     {{ partial "navigation" . }}
     <span>&nbsp;</span>
     {{ partial "translations" . }}
