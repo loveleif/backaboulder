@@ -39,3 +39,12 @@ other = "rabatt"
 
 [station]
 other = "Hållplats"
+
+[backaBoulderOnFacebook]
+other = "Backa Boulder på Facebook"
+
+[backaBoulderOnInstagram]
+other = "Backa Boulder på Instagram"
+
+[tram]
+other = "Spårvagn"
