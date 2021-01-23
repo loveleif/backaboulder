@@ -18,8 +18,8 @@
   </div>
 
   <div class="footer-section">
-    <a href="{{ .Site.Data.contact.facebook }}"><img src="{{ `images/f_logo_RGB-White_58.png` | relURL }}" width="30" class="social-media"/></a>
-    <a href="{{ .Site.Data.contact.instagram }}"><img src="{{ `images/instagram.png` | relURL }}" width="30" class="social-media"/></a>
+    <a href="{{ .Site.Data.contact.facebook }}"><img src="{{ `images/f_logo_RGB-White_58.png` | relURL }}" width="30" class="social-media" alt="{{ i18n "backaBoulderOnFacebook" }}" /></a>
+    <a href="{{ .Site.Data.contact.instagram }}"><img src="{{ `images/instagram.png` | relURL }}" width="30" class="social-media" alt="{{ i18n "backaBoulderOnInstagram" }}" /></a>
     <br/>
     <address>
     {{ i18n "mailUs" }} <a href="mailto:{{ .Site.Data.contact.email }}">{{ .Site.Data.contact.email }}</a><br/>
@@ -27,7 +27,7 @@
     </address>
   </div>
   <div class="footer-section">
-    <a href="facebook.com"><img src="{{ `images/tram.png` | relURL }}" width="30" class="social-media"/></a>
+    <img src="{{ `images/tram.png` | relURL }}" width="30" class="social-media" alt="{{ i18n "tram" }}" />
     <br/>
     {{ i18n "visitUs" }}<br/>
     {{ i18n "weekdays" }} {{ .Site.Data.opening.weekdays }} {{ i18n "and" }} {{ i18n "weekends" }} {{ .Site.Data.opening.weekends }}<br/>
