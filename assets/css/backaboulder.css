@@ -22,23 +22,28 @@ body {
 h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
-  color: #1c4035;
+  color: #38806a;
   text-transform: uppercase;
   font-size: 2.5rem;
   line-height: 1;
 }
 
+h1:hover {
+  color: #f7c554;
+}
+
 h2 {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
-  color: #1c4035;
+  color: #38806a;
   text-transform: uppercase;
   font-size: 1.5rem;
   line-height: 1;
+  margin-top: 2.6rem;
 }
 
-h1:hover {
-  color: #403316;
+h2:hover {
+  color: #f7c554;
 }
 
 tr {
@@ -208,7 +213,7 @@ address {
     width: 30rem;
     left: 15%;
     padding: 0;
-    top: 5rem;
+    top: 8rem;
     margin-bottom: 10rem;
   }
 
