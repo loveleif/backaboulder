@@ -29,10 +29,10 @@ other = "månader"
 other = "Student"
 
 [childrenUnderSix]
-other = "Barn under sex år"
+other = "Barn under fem år"
 
 [free]
-other = "gratis"
+other = "gratis i målsmans sällskap"
 
 [discount]
 other = "rabatt"
@@ -48,3 +48,6 @@ other = "Backa Boulder på Instagram"
 
 [tram]
 other = "Spårvagn"
+
+[perMonth]
+other = "per månad"

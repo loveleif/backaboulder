@@ -1,22 +1,19 @@
 ---
 title: "Backa Boulder"
 menuName: "Home"
-description: "Backa Boulder"
+description: "Gothenburgs most modern climbing gym. Bouldering in the middle of Hjalmar Brantingsplatsen."
 draft: false
 ---
 
 # Backa Boulder
 
-Welcome to Gothenburg's most modern climbing gym. Our premises were built in 2017 and
-the climbing walls in 2021. We are a newly started Boulder gym in the middle of Hjalmar
-Brantingsplatsen. It is easy to get here from all over Gothenburg.
+Welcome to Gothenburgs most modern climbing gym. Our building was constructed in 2017 and our climbing walls were made in 2021. We are a newly started bouldering gym in the middle of Hjalmar Brantingsplatsen, easily accessible from all of Gothenburg.
 
-We want to promote climbing in Gothenburg and Sweden by showing the band
-between indoor and outdoor climbing, as well as the positive effects of climbing
-for both physical and mental health. With us, everyone is welcome to develop
-their climbing ability to reach their goals. If you want help with
-this you can take one of our courses, child climbing, youth training,
-beginner technology or advanced technology.
+We want to promote climbing culture in Gothenburg and Sweden by clarifying the bond between indoor and outdoor climbing, and by showing the positive effects on mental and physical health that climbing brings.
 
-Contact us if you want to rent the entire hall with staff for children's parties,
-company groups, bachelor party / bachelorette party or similar.
+Everyone are welcome at our place. Regardless if you climb just because it's fun or if you climb to evolve and reach your goals you will find what you need here. If you wish to develop your climbing skills we offer courses in kid climbing, youth training, beginner technique, advanced technique and injury prevention for climbers.
+
+We have 350 square meters of climbing wall and a gym for you to discover. If you need energy we have lights snacks. After the workout you can recover in our sauna. There are also several restaurants, pubs, a billiard place and an escape room in the area. Why go in to the city when Hisingen has it all?
+
+Contact us if you wish to rent the whole gym with staff for kid parties, corporate events, bachelor/bachelorette parties or similar.
+

@@ -29,10 +29,10 @@ other = "months"
 other = "Student"
 
 [childrenUnderSix]
-other = "Children under six years"
+other = "Children under five years"
 
 [free]
-other = "free"
+other = "free in company of adult"
 
 [discount]
 other = "discount"
@@ -48,3 +48,6 @@ other = "Backa Boulder on Instagram"
 
 [tram]
 other = "Tram"
+
+[perMonth]
+other = "per month"
