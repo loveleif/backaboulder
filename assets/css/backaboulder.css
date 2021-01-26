@@ -9,6 +9,8 @@ body {
   width: 100%;
   background: #fdf1d6;
 
+  color:#1c4035;
+
   display: flex;
   flex-flow: column;
 
@@ -19,10 +21,19 @@ body {
 
 h1 {
   font-family: 'Josefin Sans', sans-serif;
-  font-weight: 100;
+  font-weight: 700;
   color: #1c4035;
   text-transform: uppercase;
-  font-size: 3.2rem;
+  font-size: 2.5rem;
+  line-height: 1;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 700;
+  color: #1c4035;
+  text-transform: uppercase;
+  font-size: 1.5rem;
   line-height: 1;
 }
 
