@@ -51,3 +51,6 @@ other = "Spårvagn"
 
 [perMonth]
 other = "per månad"
+
+[wereInTheAlleyBetween]
+other = "Vi ligger i gränden mellan"
