@@ -2,8 +2,17 @@
   <ul>
     {{ with .GetPage "/" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
     {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
-    {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
     {{ with .GetPage "prices" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+    {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
     {{ with .GetPage "gallery" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+    {{ with .GetPage "faq" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+
+    {{ $shortNames := .Scratch.Get "shortNames" }}
+    {{ if .IsTranslated }}{{ range .Translations }}
+    {{ if $shortNames }}
+    <li><a href="{{ .Permalink }}" class="translation">{{ .Language.Params.LanguageCode }}</a></li>
+    {{ else }}
+    <li><a href="{{ .Permalink }}" class="translation">{{ .Language.Params.UseString }}</a></li>
+    {{ end }}{{ end }}{{ end }}
   </ul>
 </nav>

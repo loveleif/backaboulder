@@ -12,9 +12,8 @@
       <text transform="translate(165.8 621.93)" fill="#fff" font-size="135.96" font-family="JosefinSans-Bold,Josefin Sans" font-weight="700">BOULDER</text>
     </svg>
 
+    {{ .Scratch.Set "shortNames" false }}
     {{ partial "navigation" . }}
-    <span>&nbsp;</span>
-    {{ partial "translations" . }}
   </div>
 
   <div class="footer-section">

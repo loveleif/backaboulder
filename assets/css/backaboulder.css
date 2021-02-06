@@ -56,10 +56,6 @@ td {
   padding-top: 0.25rem;
 }
 
-.translation {
-  text-transform: uppercase;
-}
-
 .price {
   text-align: right;
 }
@@ -199,7 +195,7 @@ address {
   }
 }
 
-@media (min-width: 46rem) {
+@media (min-width: 52rem) {
   #wall-top {
     width: 30rem;
   }

@@ -28,18 +28,6 @@
 
 
   </div>
-
-  <nav>
-    <ul>
-      {{ with .GetPage "opening-hours" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
-      {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
-      {{ with .GetPage "prices" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
-      {{ with .GetPage "gallery" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
-      {{ if .IsTranslated }}
-      {{ range .Translations }}
-      <li><a href="{{ .Permalink }}" class="translation">{{ .Language.Params.LanguageCode }}</a></li>
-      {{ end }}
-      {{ end }}
-    </ul>
-  </nav>
+  {{ .Scratch.Set "shortNames" true }}
+  {{ partial "navigation" . }}
 </header>
