@@ -13,5 +13,4 @@ We want to promote climbing culture in Gothenburg and Sweden by clarifying the b
 
 We have 350 square meters of climbing wall and a gym for you to discover. If you need energy we have lights snacks. After the workout you can recover in our sauna. There are also several restaurants, pubs, a billiard place and an escape room in the area. Why go in to the city when Hisingen has it all?
 
-Contact us if you wish to rent the whole gym with staff for kid parties, corporate events, bachelor/bachelorette parties or similar.
 

@@ -9,4 +9,4 @@ draft: false
 
 {{< opening-table >}}
 
-Deviating opening hours may occur on and around public holidays.
+Deviating opening hours may occur on and around public holidays and during June-August.

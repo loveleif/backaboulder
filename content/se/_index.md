@@ -13,5 +13,4 @@ Vi vill främja klättringen i Göteborg och Sverige genom att tydliggöra bande
 
 Vi har 350 kvadratmeter klättervägg och gym för dig att utforska. Om du behöver energi så finns det lättare förtäring i vårt café. Efter passet kan du koppla av i vår bastu. I området finns det även flera goa restauranger, pubar, biljard, escape room och liknande. Varför åka in till stan när allting finns på Backaplan?
 
-Kontakta oss om du vill hyra hela hallen med personal för barnkalas, företagsgrupper, möhippa/svensexa eller liknande.
 

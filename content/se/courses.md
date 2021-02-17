@@ -9,7 +9,7 @@ slug: "kurser"
 # Kurser
 
 ## Barnklättring
-Passar bäst för barn i åldern 5-12 år. Här klättrar vi tillsammans med barnen och en erfaren instruktör. Fokus ligger på att ha det kul och utmana oss utefter våra egna förutsättningar när det passar. 
+Passar bäst för barn i åldern 7-12 år. Här klättrar vi tillsammans med barnen och en erfaren instruktör. Fokus ligger på att ha det kul och utmana oss utefter våra egna förutsättningar när det passar. 
 
 ## Ungdomsklättring
 Passar bäst för ungdomar i åldern 13-18 år. Här klättrar ungdomarna tillsammans med en erfaren instruktör som guidar dem genom uppvärmning, stretching, lätt styrketräning och klättring såklart. Klättring är hur kul som helst, det är dock viktigt att veta att det kan slita på våra kroppar. Fokus på våra ungdomspass ligger därför delvis på att etablera hälsosamma träningsvanor inom klättring. Vi lägger också fokus på att skapa en styrkande positiv atmosfär där deltagarna lär sig att jobba gemensamt för att hitta lösningar och att pusha varandra för att nå framgång tillsammans.   

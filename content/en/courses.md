@@ -8,7 +8,7 @@ draft: false
 # Courses
 
 ## Kids climbing
-Most suitable for kids in the age of 5-12. Here we climb with our kids and an experienced instructor. Focus is on having a good time and challenging ourselves based on our personnal conditions, when it's appropriate.
+Most suitable for kids in the age of 7-12. Here we climb with our kids and an experienced instructor. Focus is on having a good time and challenging ourselves based on our personnal conditions, when it's appropriate.
 
 ## Youth training
 Most suitable for youth in the age of 13-18. Here the participants climb with an experienced instructor who guides them through warm up, stretching, light weight training and climbing of course. Climbing is a lot of fun, it is important though to know though that it can be burdensome for our bodies. Therefore we focus on establishing healthy climbing habits at our youth training. We also work to create an empowering atmosphere were the participants learn to work together in order to find solutions, and to push each other in order to reach success together.   
