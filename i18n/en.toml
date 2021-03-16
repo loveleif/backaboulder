@@ -29,7 +29,7 @@ other = "months"
 other = "Student"
 
 [childrenUnderSix]
-other = "Children under five years"
+other = "Children under six years"
 
 [free]
 other = "free in company of adult"
