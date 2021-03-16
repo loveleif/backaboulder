@@ -20,14 +20,16 @@ På Backa Boulder byggs varje enskilt problem med en speciell lösning i åtanke
 
 Vi använder en gradskala för våra olika problem som är baserad i den franska skalan. Detta innebär att våra problem ges en uppskattad grad som ska ge ett hum om hur svårt problemet är att klättra. Grader är subjektiva bedömningar, våra personliga styrkor och svagheter kommer att influera vår upplevelse av hur svårt/lätt ett problem är att klättra. Det är därför vi använder uppskattade grader, såhär ser skalan ut:
 
-- 5-ish - Vår enklaste grad
+- 4-ish - Vår enklaste grad
+- 5-ish
 - 6A-ish
 - 6B-ish
 - 6C-ish
 - 7A-ish
 - 7B-ish
 - 7C-ish
-- 8A-ish - Vår svåraste grad
+- 8A-ish
+- 8B-ish - Vår svåraste grad
 
 ## Finns det några regler?
 
