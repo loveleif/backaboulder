@@ -20,14 +20,16 @@ At Backa Boulder every individual climb (also known as "problem") has been made 
   
 We use a grading scale for the different problems that is based in font style grading. This means that our problems are given an approximate grade that gives you an idea of how hard the problem is. Grades are subjective and our personal strengths and weaknesses will influence our experience of specific problems. That's why we use approximate grades, here's how it works:
 
-- 5-ish this is the easiest grade
+- 4-ish this is the easiest grade
+- 5-ish
 - 6A-ish
 - 6B-ish
 - 6C-ish
 - 7A-ish
 - 7B-ish
 - 7C-ish
-- 8A-ish this is the hardest grade
+- 8A-ish
+- 8B-ish this is the hardest grade
 
 ## Are there any rules? 
 
