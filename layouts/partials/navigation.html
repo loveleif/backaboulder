@@ -6,6 +6,7 @@
     {{ with .GetPage "courses" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
     {{ with .GetPage "gallery" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
     {{ with .GetPage "faq" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
+    {{ with .GetPage "covid" }}<li><a href="{{ .Permalink }}">{{ .Params.menuName }}</a></li>{{ end }}
 
     {{ $shortNames := .Scratch.Get "shortNames" }}
     {{ if .IsTranslated }}{{ range .Translations }}
