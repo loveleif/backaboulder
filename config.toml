@@ -5,11 +5,11 @@ DefaultContentLanguage = "sv"
 enableRobotsTXT = true
 
 [languages]
-  [languages.se]
+  [languages.sv]
     languageName = "Svenska"
     title = "Bagarn Bengtsson"
     weight = 1
-    contentDir = "content/se"
+    contentDir = "content/sv"
     [languages.se.params]
       LanguageCode = "sv"
       UseString = "På svenska"
