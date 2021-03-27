@@ -1,4 +1,4 @@
-baseURL = "https://test.backaboulder.se/"
+baseURL = "https://backaboulder.se/"
 languageCode = "en-us"
 disableKinds = ["section", "taxonomy", "term", "RSS"]
 DefaultContentLanguage = "se"
