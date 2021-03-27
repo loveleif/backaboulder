@@ -21,15 +21,7 @@ Source code for Backa Boulder website. This is a static site that is generated u
 
 ## Deploy
 
-Changes will be deployed on merge to master branch (see .gitlab-ci.yml file).
-
-
-## Development in GitLab UI
-
-1. Push `Web IDE` button in GitLab.
-2. Edit files in browser.
-3. Push `Commit...` to create a merge request.
-4. Site will be deployed on merge.
+Changes will be deployed on merge to main branch by cloudflare pages.
 
 
 ## Local Development
@@ -40,5 +32,3 @@ Changes will be deployed on merge to master branch (see .gitlab-ci.yml file).
 4. Run `hugo server` (outout of this commend shows where you can view the site).
 5. Make changes and view them locally until happy.
 6. Commit, push changes, open merge request and merge to deploy.
-
-
