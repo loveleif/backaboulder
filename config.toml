@@ -10,7 +10,7 @@ enableRobotsTXT = true
     title = "Bagarn Bengtsson"
     weight = 1
     contentDir = "content/sv"
-    [languages.se.params]
+    [languages.sv.params]
       LanguageCode = "sv"
       UseString = "På svenska"
   [languages.en]
