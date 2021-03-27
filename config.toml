@@ -10,7 +10,7 @@ DefaultContentLanguage = "se"
     weight = 1
     contentDir = "content/se"
     [languages.se.params]
-      LanguageCode = "se"
+      LanguageCode = "sv"
       UseString = "På svenska"
   [languages.en]
     languageName = "English"
