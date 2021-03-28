@@ -8,6 +8,4 @@ slug: "öppettider"
 
 # Öppettider
 
-Vi har öppet följande tider, avvikelser kan förekomma på och kring röda dagar samt juni-augusti.
-
-{{< opening-table >}}
+__Vi öppnar inom kort__.
