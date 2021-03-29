@@ -7,4 +7,6 @@ draft: false
 
 # Opening Hours
 
-__We will be opening very soon__.
+{{< opening-table >}}
+
+Deviating opening hours may occur on and around public holidays and during June-August.

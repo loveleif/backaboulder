@@ -29,7 +29,7 @@
     <img src="{{ `images/tram.png` | relURL }}" width="30" class="social-media" alt="{{ i18n "tram" }}" />
     <br/>
     {{ i18n "visitUs" }}<br/>
-    {{ i18n "openSoon" }}<br/>
+    {{ i18n "weekdays" }} {{ .Site.Data.opening.weekdays }} {{ i18n "and" }} {{ i18n "weekends" }} {{ .Site.Data.opening.weekends }}<br/>
     {{ i18n "station" }}: {{ .Site.Data.contact.station }}<br/>
     <address>
       <a href="https://goo.gl/maps/7xP6Yjga8RbRq4Yk8">
