@@ -10,6 +10,15 @@ slug: "öppettider"
 
 __Vi öppnar den 31a mars!__
 
-Vi har öppet följande tider, avvikelser kan förekomma på och kring röda dagar samt juni-augusti.
-
 {{< opening-table >}}
+
+##
+
+Öppettider under påsken    | 
+--------|------
+Långfredagen     | 10-19
+Påskafton   | 10-19
+Påskdagen | 10-19
+Annandag påsk | 10-19
+
+Avvikande öppettider kan förekomma på och kring röda dagar samt juni-augusti.
