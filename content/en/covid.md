@@ -8,7 +8,7 @@ slug: "covid"
 
 # Concerning Covid-19
 
-Our space is 628 square metres. We have an upper limit of 45 visitors at once. 
+Our space is 628 square metres. We have an upper limit of 40 visitors at once. 
 One session is max 2 hours long. We can then have at least 10 square metres of 
 space each. If you are wondering how many persons are climbing at us, give us 
 a call and we’ll tell you alla bout it.
