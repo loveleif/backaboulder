@@ -8,7 +8,7 @@ slug: "covid"
 
 # Angående Covid-19
 
-Vår lokal är 628 kvadratmeter stor. Vi har satt ett maxantal besökare till 45 
+Vår lokal är 628 kvadratmeter stor. Vi har satt ett maxantal besökare till 40 
 personer samtidigt så att vi får minst 10 kvadratmeter fri yta per person. 
 Ett pass är högst 2 timmar långt. Om du undrar hur många personer som är 
 hos oss och klättrar, ring oss så berättar vi.
