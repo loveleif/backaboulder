@@ -31,14 +31,14 @@ Avvikande öppettider kan förekomma på och kring röda dagar samt juni-augusti
 
 Öppettider under vårens högtider:
 
-30e april 10-19
+30e april - 10-19
 
-1 maj 10-19
+1 maj - 10-19
 
-13-14 maj 10-22
+13-14 maj - 10-22
 
-22-23 maj 10-19
+22-23 maj - 10-19  
 
-6 juni 10-19
+6 juni - 10-19
 
-25-26 juni stängt
+25-26 juni - stängt
