@@ -9,3 +9,6 @@ slug: "priser"
 # Priser
 
 {{< price-table >}}
+
+Hyra klätterskor - 30 kr
+Hyra kritpåse - 15 kr
