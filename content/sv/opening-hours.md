@@ -29,7 +29,7 @@ Annandag påsk | 10-19
 
 Avvikande öppettider kan förekomma på och kring röda dagar samt juni-augusti.
 
-Öppettider under våren:
+Öppettider under vårens högtider:
 
 30e april 10-19
 
