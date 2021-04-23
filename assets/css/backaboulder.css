@@ -132,6 +132,14 @@ main {
   margin-bottom: 6rem;
 }
 
+.content-image {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
 footer {
   background: #38806a;
   color: #fff;
