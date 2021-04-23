@@ -22,11 +22,8 @@ slug: "öppettider"
 25-26 juni | stängt
 
 <!-- 
-You can use this template for temporary opening hours
-1. Remove this text and the html comment tags
-2. Edit the information below
-3. Voila, site will display temp opening hours.
-4. Don't forget to change the English content.
+You can use this template for temporary opening hours.
+Copy paste the following to below the opening-table obove 
 
 ##
 
