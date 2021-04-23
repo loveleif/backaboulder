@@ -9,6 +9,17 @@ draft: false
 
 {{< opening-table >}}
 
+##
+
+Opening hours during Easter    |
+---------------------|----------
+30th of April | 10-19
+1st of May | 10-19
+13-14th of May | 10-22
+22-23rd of May | 10-19
+6th of June | 10-19
+25-26th of June | closed
+
 <!-- 
 You can use this template for temporary opening hours
 1. Remove this text and the html comment tags
@@ -29,17 +40,3 @@ Monday April 5th     | 10-19
 -->
 
 Deviating opening hours may occur on and around public holidays and during June-August.
-
-Opening hours during the spring holidays:
-
-30th of April - 10-19
-
-1st of May - 10-19
-
-13-14th of May - 10-22
-
-22-23rd of May - 10-19
-
-6th of June - 10-19
-
-25-26th of June - closed

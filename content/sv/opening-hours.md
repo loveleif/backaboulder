@@ -10,6 +10,17 @@ slug: "öppettider"
 
 {{< opening-table >}}
 
+##
+
+Öppettider under vårens högtider    |
+--------|------
+30e april | 10-19
+1 maj | 10-19
+13-14 maj | 10-22
+22-23 maj | 10-19
+6 juni | 10-19
+25-26 juni | stängt
+
 <!-- 
 You can use this template for temporary opening hours
 1. Remove this text and the html comment tags
@@ -29,16 +40,3 @@ Annandag påsk | 10-19
 
 Avvikande öppettider kan förekomma på och kring röda dagar samt juni-augusti.
 
-Öppettider under vårens högtider:
-
-30e april - 10-19
-
-1 maj - 10-19
-
-13-14 maj - 10-22
-
-22-23 maj - 10-19  
-
-6 juni - 10-19
-
-25-26 juni - stängt
