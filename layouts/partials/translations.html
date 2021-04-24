@@ -1,7 +1,7 @@
 <ul>
   {{ if .IsTranslated }}
     {{ range .Translations }}
-      <li><a href="{{ .Permalink }}">{{ .Language.Params.UseString }}</a></li>
+      <li><a href="{{ .RelPermalink }}">{{ .Language.Params.UseString }}</a></li>
     {{ end }}
   {{ end }}
 </ul>
