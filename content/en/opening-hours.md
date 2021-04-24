@@ -11,7 +11,7 @@ draft: false
 
 ##
 
-Opening hours during Easter    |
+Opening hours during the spring holidays    |
 ---------------------|----------
 30th of April | 10-19
 1st of May | 10-19
