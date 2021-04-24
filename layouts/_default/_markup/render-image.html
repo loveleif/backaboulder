@@ -1,10 +1,12 @@
 {{ $imageResource := resources.Get .Destination }}
-{{ $image360 := $imageResource.Resize "360x" }}
-{{ $image480 := $imageResource.Resize "480x" }}
-<img srcset="{{ $image360.RelPermalink }} 360w"
-             {{ $image480.RelPermalink }} 480w,
-     sizes="(min-width: 52rem) 480px,
-            80vw"
-     src="{{ $image480.RelPermalink }}"
-     alt="{{ .Text }}"
-     class="content-image">
+{{ $image400 := $imageResource.Resize "400x jpg q90" }}
+{{ $image480 := $imageResource.Resize "480x jpg q90" }}
+
+<a href="{{ $imageResource.RelPermalink }}" class="content-image">
+  <img srcset="{{ $image400.RelPermalink }} 400w,
+               {{ $image480.RelPermalink }} 480w"
+       sizes="(min-width: 52rem) 480px,
+              80vw"
+       src="{{ $image400.RelPermalink }}"
+       alt="{{ .Text }}">
+</a>
