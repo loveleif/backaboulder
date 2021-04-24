@@ -28,14 +28,14 @@
     </noscript>
 
     {{ $styleNorm := resources.Get "css/normalize.css" | minify | fingerprint }}
-    <link rel="stylesheet" type="text/css" href="{{ $styleNorm.Permalink }}">
+    <link rel="stylesheet" type="text/css" href="{{ $styleNorm.RelPermalink }}">
     {{ $styleMain := resources.Get "css/backaboulder.css" | minify | fingerprint }}
-    <link rel="stylesheet" type="text/css" href="{{ $styleMain.Permalink }}">
+    <link rel="stylesheet" type="text/css" href="{{ $styleMain.RelPermalink }}">
 
-    <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Page.Permalink }}" title="{{ .Site.Language.LanguageName }}"/>
+    <link rel="alternate" hreflang="{{ .Site.Language.Lang }}" href="{{ .Page.RelPermalink }}" title="{{ .Site.Language.LanguageName }}"/>
     {{ if .IsTranslated }}
       {{ range .Translations }}
-    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}"/>
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .RelPermalink }}" title="{{ .Language.LanguageName }}"/>
       {{ end }}
     {{ end }}
   </head>
