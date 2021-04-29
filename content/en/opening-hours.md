@@ -13,7 +13,7 @@ draft: false
 
 Opening hours during the spring holidays    |
 ---------------------|----------
-30th of April | 10-19
+30th of April | 10-22
 1st of May | 10-19
 13-14th of May | 10-22
 22-23rd of May | 10-19
