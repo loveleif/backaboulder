@@ -1,5 +1,5 @@
 ---
-title: "Backa Boulder Priser"
+title: "Priser"
 menuName: "Priser"
 description: "Backa boulder priser"
 draft: false

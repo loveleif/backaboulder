@@ -1,5 +1,5 @@
 ---
-title: "Backa Boulder öppettider"
+title: "Öppettider"
 menuName: "Öppet"
 description: "Backa boulder öppettider"
 draft: false

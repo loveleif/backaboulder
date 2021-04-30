@@ -1,5 +1,5 @@
 ---
-title: "Covid 19 rules"
+title: "Covid 19 Rules"
 menuName: "Covid"
 description: "Backa boulder Covid rules"
 draft: false
