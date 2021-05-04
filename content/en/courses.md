@@ -7,6 +7,10 @@ draft: false
 
 # Courses
 
+## Our courses are on hold right now, we are planning to start them after the summer. You can register interest and we will put you on the list. 
+## We will hold summer training for two groups: youth aged 7-10 and 11-14.
+## Please contact us if you are interested, info@backaboulder.se, +46 (0)76 32 60 545.
+
 ## Kids climbing
 
 Most suitable for kids in the age of 7-12. Here we climb with our kids and an experienced instructor. Focus is on having a good time and challenging ourselves based on our personnal conditions, when it's appropriate.
