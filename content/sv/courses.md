@@ -8,6 +8,10 @@ slug: "kurser"
 
 # Kurser
 
+## Våra kurser har inte kommit igång ännu, vi planerar att starta dem efter sommaren. Du kan anmäla intresse så skriver vi upp dig på listan. 
+## Vi kommer att hålla sommarträning för två grupper om det blir tillräckligt många anmälningar: barn/ungdomar i åldern 7-10 och 11-14.
+## Kontakta oss vid intresse, info@backaboulder.se, +46 (0)76 32 60 545.
+
 ## Barnklättring
 
 Passar bäst för barn i åldern 7-12 år. Här klättrar vi tillsammans med barnen och en erfaren instruktör. Fokus ligger på att ha det kul och utmana oss utefter våra egna förutsättningar när det passar. 
