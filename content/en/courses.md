@@ -8,7 +8,7 @@ draft: false
 # Courses
 
 ## Our courses are on hold right now, we are planning to start them after the summer. You can register interest and we will put you on the list. 
-## We will hold summer training for two groups: youth aged 7-10 and 11-14.
+## We will hold summer training for two groups if we get enough participants: youth aged 7-10 and 11-14.
 ## Please contact us if you are interested, info@backaboulder.se, +46 (0)76 32 60 545.
 
 ## Kids climbing
