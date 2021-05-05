@@ -14,12 +14,14 @@ slug: "öppettider"
 
 Öppettider under vårens högtider    |
 --------|------
-30e april | 10-22
-1 maj | 10-19
 13-14 maj | 10-22
 22-23 maj | 10-19
 6 juni | 10-19
 25-26 juni | stängt
+
+Öppettider i sommar    |
+--------|------
+21a juni - 15e augusti | 10-19
 
 <!-- 
 You can use this template for temporary opening hours.
