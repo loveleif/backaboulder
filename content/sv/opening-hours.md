@@ -19,6 +19,7 @@ slug: "öppettider"
 6 juni | 10-19
 25-26 juni | stängt
 
+
 Öppettider i sommar    |
 --------|------
 21a juni - 15e augusti | 10-19
