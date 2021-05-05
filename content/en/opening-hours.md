@@ -20,6 +20,10 @@ Opening hours during the spring holidays    |
 6th of June | 10-19
 25-26th of June | closed
 
+Business hours during the summer    |
+--------|------
+21st of June - 15th of August | 10-19
+
 <!-- 
 You can use this template for temporary opening hours
 1. Remove this text and the html comment tags
