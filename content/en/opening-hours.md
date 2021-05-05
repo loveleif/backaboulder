@@ -20,6 +20,7 @@ Opening hours during the spring holidays    |
 6th of June | 10-19
 25-26th of June | closed
 
+
 Business hours during the summer    |
 --------|------
 21st of June - 15th of August | 10-19
