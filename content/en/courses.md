@@ -8,7 +8,7 @@ draft: false
 # Courses
 
 ## Our courses are on hold right now, we are planning to start them after the summer. You can register interest and we will put you on the list. 
-## We will hold summer climbing school for two groups if we get enough participants: youth aged 7-10 and 11-14. The summer climbing school will be held mon-fri, 10-12 for the 7-10 year olds and 1230-1430 for the 11-14 year olds, at week 25-27 (more weeks if there is interest). It will cost 950 SEK for a week, it includes an instuctor. There will be around 6-9 participants in each group. 
+## We will hold summer climbing school for two groups if we get enough participants: youth aged 7-10 and 11-14. The summer climbing school will be held mon-fri, 10-12 for the 7-10 year olds and 1230-1430 for the 11-14 year olds, at week 25-27 (more weeks if there is interest). It will cost 950 SEK for a week, it includes an instuctor and climbing shoes. There will be around 6-9 participants in each group. 
 ## Please contact us if you are interested, info@backaboulder.se, +46 (0)76 32 60 545.
 
 ## Kids climbing
