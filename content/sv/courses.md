@@ -10,7 +10,7 @@ slug: "kurser"
 
 ## Våra kurser har inte kommit igång ännu, vi planerar att starta dem efter sommaren. Du kan anmäla intresse så skriver vi upp dig på listan. 
 ## Vi kommer att hålla klätterskola i sommar för två grupper om det blir tillräckligt många anmälningar: barn/ungdomar i åldern 7-10 och 11-14. Klätterskolan kommer att hållas mån-fre, 10-12 för 7-10 åringarna och 1230-1430 för 11-14 åringarna, vecka 25-31. Det kommer att kosta 950 kronor för en vecka, då ingår intruktör och klätterskor. Det kommer att vara ungefär 6-9 deltagare i kurserna. 
-## Kontakta oss vid intresse, info@backaboulder.se, +46 (0)76 32 60 545.
+## Kontakta oss vid intresse, kontakt@backaboulder.se, +46 (0)76 32 60 545.
 
 ## Barnklättring
 
