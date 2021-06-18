@@ -11,19 +11,16 @@ draft: false
 
 ##
 
-Opening hours during the spring holidays    |
----------------------|----------
-30th of April | 10-22
-1st of May | 10-19
-13-14th of May | 10-22
-22-23rd of May | 10-19
-6th of June | 10-19
-25-26th of June | closed
-
-
 Business hours during the summer    |
 --------|------
-21st of June - 15th of August | 10-19
+week 25, mon-fri 10-21, sat-sun 10-19. CLOSED on midsummers eve and midsummers day
+week 26, mon-fri 10-21, sat-sun 10-19
+Week 27, mon-sun 10-19
+Week 28, mon-sun 10-19
+Week 29, mon-sun 10-19
+Week 30, mon-sun 10-19
+Week 31, mon-sun 10-19
+Week 32, mon-sun 10-19
 
 <!-- 
 You can use this template for temporary opening hours
