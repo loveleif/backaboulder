@@ -12,17 +12,19 @@ slug: "öppettider"
 
 ##
 
-Öppettider under vårens högtider    |
---------|------
-13-14 maj | 10-22
-22-23 maj | 10-19
-6 juni | 10-19
-25-26 juni | stängt
+
 
 
 Öppettider i sommar    |
 --------|------
-21a juni - 15e augusti | 10-19
+Vecka 25, mån-fre 10-21, lör-sön 10-19. OBS! Stängt midsommarafton och midsommardagen
+Vecka 26, mån-fre 10-21, lör-sön 10-19
+Vecka 27, 10-19 alla dagar
+Vecka 28, 10-19 alla dagar
+Vecka 29, 10-19 alla dagar
+Vecka 30, 10-19 alla dagar
+Vecka 31, 10-19 alla dagar
+Vecka 32, 10-19 alla dagar
 
 <!-- 
 You can use this template for temporary opening hours.
