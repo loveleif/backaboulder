@@ -17,7 +17,8 @@ slug: "öppettider"
 
 Öppettider i sommar    |
 --------|------
-Vecka 25, mån-fre 10-21, lör-sön 10-19. OBS! Stängt midsommarafton och midsommardagen
+Vecka 25, mån-fre 10-21, lör-sön 10-19. 
+OBS! Stängt midsommarafton och midsommardagen
 Vecka 26, mån-fre 10-21, lör-sön 10-19
 Vecka 27, 10-19 alla dagar
 Vecka 28, 10-19 alla dagar
