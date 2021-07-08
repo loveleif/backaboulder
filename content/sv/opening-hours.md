@@ -17,15 +17,12 @@ slug: "öppettider"
 
 Öppettider i sommar    |
 --------|------
-Vecka 25, mån-fre 10-21, lör-sön 10-19. 
-OBS! Stängt midsommarafton och midsommardagen
-Vecka 26, mån-fre 10-21, lör-sön 10-19
-Vecka 27, mån-fre 10-20, lör-sön 10-19
+Vecka 27, mån-fre 10-21, lör-sön 10-19
 Vecka 28, mån-fre 10-20, lör-sön 10-19
-Vecka 29, mån-fre 10-20, lör-sön 10-19
-Vecka 30, mån-fre 10-20, lör-sön 10-19
-Vecka 31, mån-fre 10-20, lör-sön 10-19
-Vecka 32, mån-fre 10-20, lör-sön 10-19
+Vecka 29, mån-fre 10-21, lör-sön 10-19
+Vecka 30, mån-fre 10-21, lör-sön 10-19
+Vecka 31, mån-fre 10-21, lör-sön 10-19
+Vecka 32, mån-fre 10-21, lör-sön 10-19
 
 <!-- 
 You can use this template for temporary opening hours.
