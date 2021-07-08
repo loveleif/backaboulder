@@ -13,15 +13,12 @@ draft: false
 
 Business hours during the summer    |
 --------|------
-week 25, mon-fri 10-21, sat-sun 10-19. 
-CLOSED on midsummers eve and midsummers day
-week 26, mon-fri 10-21, sat-sun 10-19
-Week 27, mon-fri 10-20, sat-sun 10-19
+Week 27, mon-fri 10-21, sat-sun 10-19
 Week 28, mon-fri 10-20, sat-sun 10-19
-Week 29, mon-fri 10-20, sat-sun 10-19
-Week 30, mon-fri 10-20, sat-sun 10-19
-Week 31, mon-fri 10-20, sat-sun 10-19
-Week 32, mon-fri 10-20, sat-sun 10-19
+Week 29, mon-fri 10-21, sat-sun 10-19
+Week 30, mon-fri 10-21, sat-sun 10-19
+Week 31, mon-fri 10-21, sat-sun 10-19
+Week 32, mon-fri 10-21, sat-sun 10-19
 
 <!-- 
 You can use this template for temporary opening hours
