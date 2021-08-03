@@ -8,7 +8,7 @@ draft: false
 # Courses
 
 ## New courses for the fall 2021
-On the 17th of August we will start with our technique course for you who are new in bouldering, beginners technique.
+On the 17th of August we will start with our technique course for you who are new in Bouldering, beginners technique.
 It will take place on Tuesdays at 1900-2100 on 5 occasions. The price is 1600 SEK, climbing shoes and chalk is included.
 Please contact us if you are interested, kontakt@backaboulder.se - 076 32 60 545.
 
