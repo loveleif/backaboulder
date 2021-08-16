@@ -11,15 +11,6 @@ draft: false
 
 ##
 
-Business hours during the summer    |
---------|------
-Week 27, mon-fri 10-21, sat-sun 10-19
-Week 28, mon-fri 10-20, sat-sun 10-19
-Week 29, mon-fri 10-21, sat-sun 10-19
-Week 30, mon-fri 10-21, sat-sun 10-19
-Week 31, mon-fri 10-21, sat-sun 10-19
-Week 32, mon-fri 10-21, sat-sun 10-19
-
 <!-- 
 You can use this template for temporary opening hours
 1. Remove this text and the html comment tags
