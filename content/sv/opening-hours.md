@@ -12,18 +12,6 @@ slug: "öppettider"
 
 ##
 
-
-
-
-Öppettider i sommar    |
---------|------
-Vecka 27, mån-fre 10-21, lör-sön 10-19
-Vecka 28, mån-fre 10-20, lör-sön 10-19
-Vecka 29, mån-fre 10-21, lör-sön 10-19
-Vecka 30, mån-fre 10-21, lör-sön 10-19
-Vecka 31, mån-fre 10-21, lör-sön 10-19
-Vecka 32, mån-fre 10-21, lör-sön 10-19
-
 <!-- 
 You can use this template for temporary opening hours.
 Copy paste the following to below the opening-table obove 
