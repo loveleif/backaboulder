@@ -22,7 +22,7 @@ Passar bäst för barn i åldern 7-10 år. Här klättrar vi tillsammans med bar
 
 ## Ungdomsklättring
 
-Passar bäst för ungdomar i åldern 11-14 år. Här klättrar ungdomarna tillsammans med en erfaren instruktör som guidar dem genom uppvärmning, stretching, lätt styrketräning och klättring såklart. Klättring är hur kul som helst, det är dock viktigt att veta att det kan slita på våra kroppar. Fokus på våra ungdomspass ligger därför delvis på att etablera hälsosamma träningsvanor inom klättring. Vi lägger också fokus på att skapa en styrkande positiv atmosfär där deltagarna lär sig att jobba gemensamt för att hitta lösningar och att pusha varandra för att nå framgång tillsammans.   
+Passar bäst för ungdomar i åldern 11-14 år. Här klättrar ungdomarna tillsammans med en erfaren instruktör som guidar dem både som en grupp som arbetar tillsammans, och som individer med personliga styrkor och aspekter som kan förbättras. Klättring är hur kul som helst, det är dock viktigt att veta att det kan slita på våra kroppar. Fokus på våra ungdomspass ligger därför delvis på att etablera hälsosamma träningsvanor inom klättring. Vi lägger också fokus på att skapa en styrkande positiv atmosfär där deltagarna lär sig att jobba gemensamt för att hitta lösningar och att pusha varandra för att nå framgång tillsammans.   
 
 ## Nybörjarteknik
 
