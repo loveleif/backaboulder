@@ -7,17 +7,22 @@ slug: "kurser"
 ---
 
 ## Nya kurser hösten 2021
-Den 17e augusti startar vår teknikkurs för er som är nya inom Bouldering, nybörjarteknik.
-Den kommer att hållas på tisdagar klockan 1900-2100 och sträcka sig över 5 tillfällen. Priset är 1600 kronor, då ingår klätterskor och krita. 
-Kontakta oss om du är intresserad, kontakt@backaboulder.se - 076 32 60 545.
+Barn- och ungdomsklättringen startar vecka 34. De hålls under 15 tillfällen nu i höst, på onsdagar och lördagar. 
+
+Onsdagar, 7-10 år, kl 17-19
+          11-14 år, kl 19-21
+Lördagar, 7-10 år, 10-12
+          11-14 år, 12-14
+
+Priset är 1900 kronor, då ingår klätterskor, krita och instruktör. Anmälan sker till kontakt@backaboulder.se
 
 ## Barnklättring
 
-Passar bäst för barn i åldern 7-12 år. Här klättrar vi tillsammans med barnen och en erfaren instruktör. Fokus ligger på att ha det kul och utmana oss utefter våra egna förutsättningar när det passar. 
+Passar bäst för barn i åldern 7-10 år. Här klättrar vi tillsammans med barnen och en erfaren instruktör. Fokus ligger på att ha det kul och utmana oss utefter våra egna förutsättningar när det passar. 
 
 ## Ungdomsklättring
 
-Passar bäst för ungdomar i åldern 13-18 år. Här klättrar ungdomarna tillsammans med en erfaren instruktör som guidar dem genom uppvärmning, stretching, lätt styrketräning och klättring såklart. Klättring är hur kul som helst, det är dock viktigt att veta att det kan slita på våra kroppar. Fokus på våra ungdomspass ligger därför delvis på att etablera hälsosamma träningsvanor inom klättring. Vi lägger också fokus på att skapa en styrkande positiv atmosfär där deltagarna lär sig att jobba gemensamt för att hitta lösningar och att pusha varandra för att nå framgång tillsammans.   
+Passar bäst för ungdomar i åldern 11-14 år. Här klättrar ungdomarna tillsammans med en erfaren instruktör som guidar dem genom uppvärmning, stretching, lätt styrketräning och klättring såklart. Klättring är hur kul som helst, det är dock viktigt att veta att det kan slita på våra kroppar. Fokus på våra ungdomspass ligger därför delvis på att etablera hälsosamma träningsvanor inom klättring. Vi lägger också fokus på att skapa en styrkande positiv atmosfär där deltagarna lär sig att jobba gemensamt för att hitta lösningar och att pusha varandra för att nå framgång tillsammans.   
 
 ## Nybörjarteknik
 
