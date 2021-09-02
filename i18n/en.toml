@@ -57,3 +57,9 @@ other = "We're in the alley between"
 
 [underSixteen]
 other = "Under 16 years of age"
+
+[chalkRental]
+other = "Chalk bag rental"
+
+[shoeRental]
+other = "Shoe rental"
