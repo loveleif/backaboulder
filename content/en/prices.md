@@ -5,7 +5,7 @@ description: "Backa boulder priser"
 draft: false
 ---
 
-# Priser
+# Prices
 
 {{< price-table >}}
 
