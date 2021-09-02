@@ -1,6 +1,10 @@
 <table>
   <thead>
   </thead>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
   <tbody>
     <tr>
       <td>{{ i18n "singleEntrance" }}</td>
@@ -23,20 +27,16 @@
       <td class="price">{{ .Site.Data.prices.months12 }} kr</td>
     </tr>
     <tr>
-      <td>{{ i18n "student" }}</td>
-      <td class="price">{{ .Site.Data.prices.studentDiscount }} {{ i18n "discount" }}</td>
-    </tr>
-    <tr>
-      <td>{{ i18n "underSixteen" }}</td>
-      <td class="price">{{ .Site.Data.prices.under16 }} kr</td>
-    </tr>
-    <tr>
-      <td>{{ i18n "childrenUnderSix" }}</td>
-      <td class="price">{{ i18n "free" }}*</td>
-    </tr>
-    <tr>
       <td>Autogiro</td>
       <td class="price">{{ .Site.Data.prices.autogiro }} {{ i18n "perMonth" }}</td>
+    </tr>
+    <tr>
+      <td>{{ i18n "shoeRental" }}</td>
+      <td class="price">{{ .Site.Data.prices.shoe_rental }} kr</td>
+    </tr>
+    <tr>
+      <td>{{ i18n "chalkRental" }}</td>
+      <td class="price">{{ .Site.Data.prices.chalk_rental }} kr</td>
     </tr>
   </tbody>
 </table>

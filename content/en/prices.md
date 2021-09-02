@@ -5,10 +5,21 @@ description: "Backa boulder priser"
 draft: false
 ---
 
-# Prices
+# Priser
 
 {{< price-table >}}
 
-Rent climbing shoes - 30 SEK
+## Students
 
-Rent chalk bag - 15 SEK
+Students have a __15% discount__ on entry fees, excluding "autogiro".
+
+## Youth
+
+15 year-olds and younger enter at discounted prices:
+
+{{< youth-price-table >}}
+
+## Children
+
+Children younger than six years old can visit us for __free__, in company with an adult.
+
