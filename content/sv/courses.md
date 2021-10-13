@@ -9,13 +9,13 @@ slug: "kurser"
 
 ## Barnklättring
 
-Barnklättringen är fullbokad för höst-terminen 2021.
+Barnklättringen är fullbokad för höst-terminen 2021. Anmäl intresse för vår-terminen 2022 på kontakt@backaboulder.se
 
 Passar bäst för barn i åldern 7-10 år. Här klättrar vi tillsammans med barnen och en erfaren instruktör. Fokus ligger på att ha det kul och utmana oss utefter våra egna förutsättningar när det passar. 
 
 ## Ungdomsklättring
 
-Ungdomsklättringen är fullbokad för höst-terminen 2021.
+Ungdomsklättringen är fullbokad för höst-terminen 2021. Anmäl intresse för vår-terminen 2022 på kontakt@backaboulder.se
 
 Passar bäst för ungdomar i åldern 11-14 år. Här klättrar ungdomarna tillsammans med en erfaren instruktör som guidar dem både som en grupp som arbetar tillsammans, och som individer med personliga styrkor och aspekter som kan förbättras. Klättring är hur kul som helst, det är dock viktigt att veta att det kan slita på våra kroppar. Fokus på våra ungdomspass ligger därför delvis på att etablera hälsosamma träningsvanor inom klättring. Vi lägger också fokus på att skapa en styrkande positiv atmosfär där deltagarna lär sig att jobba gemensamt för att hitta lösningar och att pusha varandra för att nå framgång tillsammans.   
 
