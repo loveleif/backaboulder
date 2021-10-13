@@ -22,4 +22,12 @@ Undomar till och med 15 år går in till ett billigare pris:
 
 ## Barn
 
-Barn under sex år får besöka oss gratis i målsmans sällskap.
+Barn under sex år får besöka oss gratis i målshens sällskap om målshen klättrar.
+Om bara barnet klättrar så kostar entré 75 kronor. 
+
+## Instruktörer och gruppbokningar
+
+Vi har instruktörer för gruppbokningar. De kostar 350 kronor per timme. 
+Om du bokar en grupp med ungdomar under 16 år så är max antal deltagare 10st. 
+Detta är för att säkerställa säkerheten i gymet och en hög kvalité på servicen från instruktörerna.
+
