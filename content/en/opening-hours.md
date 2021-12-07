@@ -9,6 +9,16 @@ draft: false
 
 {{< opening-table >}}
 
+Opening hours during christmas and new years    | 
+--------|------
+24/12     | closed
+25/12   | closed
+26/12 | 10-16
+new years eve | closed
+new years day | closed
+
+All other days are open according to the normal schedule.
+
 ##
 
 <!-- 
