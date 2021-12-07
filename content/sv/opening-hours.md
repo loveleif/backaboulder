@@ -10,6 +10,16 @@ slug: "öppettider"
 
 {{< opening-table >}}
 
+Öppettider under jul och nyår    | 
+--------|------
+julafton     | stängt
+juldagen   | stängt
+annandag jul | 10-16
+nyårsafton | stängt
+nyårsdagen | stängt
+
+Alla andra dagar är det öppet enligt vanligt schema.
+
 ##
 
 <!-- 
