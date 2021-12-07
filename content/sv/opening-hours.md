@@ -10,6 +10,7 @@ slug: "öppettider"
 
 {{< opening-table >}}
 
+
 Öppettider under jul och nyår    | 
 --------|------
 julafton     | stängt
