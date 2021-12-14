@@ -9,6 +9,7 @@ draft: false
 
 {{< opening-table >}}
 
+## 
 
 Opening hours during christmas and new years    | 
 --------|------
