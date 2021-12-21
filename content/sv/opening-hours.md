@@ -14,7 +14,7 @@ slug: "öppettider"
 
 Öppettider under jul och nyår    | 
 -------------|--------------------
-julafton     | stängt
+julafton     | 12-16, gratis inträde!
 juldagen     | stängt
 annandag jul | 10-16
 nyårsafton   | stängt
