@@ -6,28 +6,31 @@ draft: false
 ---
 
 # Courses
-           
+         
+Our kids courses during the spring of 2022 are held at wednesdays 17-1830 and saturdays 0900-1030 and 1100-1230.
+The youth courses are held at wednesdays 1900-2030 and saturdays 13-1430.
+         
 ## Kids climbing
 
-The kids climbing is fully booked for autumn 2021. Register interest for spring 2022 at kontakt@backaboulder.se.
+There is only one spot left for the kids climbing in the spring of 2022. It's on saturdays 1100-1230. Mail kontakt@backaboulder.se to grab it.
 
-Most suitable for kids in the age of 7-10. Here we climb with our kids and an experienced instructor. Focus is on having a good time and challenging ourselves based on our personnal conditions, when it's appropriate.
+The kids climbing is most suitable for kids in the age of 7-10. Here the kids climb together with an experienced instructor. Focus is on having a good time and challenging ourselves based on our personnal conditions, when it's appropriate.
 
 ## Youth training
 
-The youth training is fully booked for autumn 2021. Register interest for spring 2022 at kontakt@backaboulder.se.
+The youth training is fully booked for spring 2022. 
 
-Most suitable for youth in the age of 11-14. Here the participants climb with an experienced instructor who guides them as a group that works together, and as individuals with personal strengths and areas to work on. Climbing is a lot of fun, it is important though to know though that it can be burdensome for our bodies. Therefore we focus on establishing healthy climbing habits at our youth training. We also work to create an empowering atmosphere were the participants learn to work together in order to find solutions, and to push each other in order to reach success together.   
+The youth climbing is most suitable for youth in the age of 11-14. Here the participants climb with an experienced instructor who guides them as a group that works together, and as individuals with personal strengths and areas to work on. Climbing is a lot of fun, it is important though to know that it can be burdensome for our bodies. Therefore we focus on establishing healthy climbing habits at our youth training. We also work to create an empowering atmosphere were the participants learn to work together in order to find solutions, and to push each other in order to reach success together.   
 
 ## Beginners technique
 
-The next beginners course starts at the 11th of November. Register interest at kontakt@backaboulder.se.
+Register interest and check availability at kontakt@backaboulder.se.
 
-Most suitable for you who have been climbing for up to a year or so and wish to reach new heights. We go through all the climbing specific movements and train them properly in order for to climb more efficiently. What was earlier hard will become easy.
+Most suitable for you who have been climbing for up to one or two years or so and wish to reach new heights. We go through all the climbing specific movements and train them properly in order for to climb more efficiently. What was earlier hard will become easy.
 
 ## Advanced technique
 
-The next advanced course will start in the spring of 2022. Register interest at kontakt@backaboulder.se.
+Register interest and check availability at kontakt@backaboulder.se.
 
 Most suitable for you who have been climbing for more than 3 years or so. Here we will go in depth and look at your weaknesses to develop a plan for you to strengthen them and raise your lowest level. We also go through injury prevention  training for climbers so that you can keep on climbing for eternity.
 
