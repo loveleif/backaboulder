@@ -5,6 +5,14 @@ description: "Gothenburgs most modern climbing gym. Bouldering in the middle of 
 draft: false
 ---
 
+# Corona update 2021-12-22!
+
+There will be new restrictions in the gym starting on Thursday the 23rd of December.
+The maximum number of visitors at once will be 45. No booking system, the "first come first serve" principle will be applied.
+Feel free to call us and check availability before coming here if you want, +46 (0)76 32 60 545.
+Peak hours are 17-20 on weekdays, on other times there are usually less than 45 persons in the gym.
+The sauna will be closed. 
+
 # Backa Boulder
 
 Welcome to Gothenburgs most modern climbing gym. Our building was constructed 
