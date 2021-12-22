@@ -7,8 +7,8 @@ draft: false
 
 # Courses
          
-Our kids courses during the spring of 2022 are held at wednesdays 17-1830 and saturdays 0900-1030 and 1100-1230.
-The youth courses are held at wednesdays 1900-2030 and saturdays 13-1430.
+Our kids courses during the spring of 2022 are held at wednesdays 1700-1830 and saturdays 0900-1030 and 1100-1230.
+The youth courses are held at wednesdays 1900-2030 and saturdays 1300-1430.
          
 ## Kids climbing
 
