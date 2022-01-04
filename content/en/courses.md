@@ -12,7 +12,7 @@ The youth courses are held at wednesdays 1900-2030 and saturdays 1300-1430.
          
 ## Kids climbing
 
-There is only one spot left for the kids climbing in the spring of 2022. It's on saturdays 1100-1230. Mail kontakt@backaboulder.se to grab it.
+The kids courses are fully booked for spring 2022.
 
 The kids climbing is most suitable for kids in the age of 7-10. Here the kids climb together with an experienced instructor. Focus is on having a good time and challenging ourselves based on our personnal conditions, when it's appropriate.
 
