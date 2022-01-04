@@ -9,6 +9,10 @@ draft: false
 
 {{< price-table >}}
 
+## Autogiro
+
+Autogiro is signed for 12 months. After these first 12 months there is a 1 month cancellation period.
+
 ## Students
 
 Students have a __15% discount__ on entry fees, excluding "autogiro".
