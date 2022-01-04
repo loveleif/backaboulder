@@ -13,7 +13,7 @@ Ungdomskurserna hålls på onsdagar 1900-2030 och lördagar 1300-1430.
 
 ## Barnklättring
 
-Det finns bara en plats kvar på barnklättringen för 2022, lördagar 1100-1230. Anmäl intresse via kontakt@backaboulder.se.
+Barnklättringen är fullbokad för våren 2022.
 
 Barnklättringen passar bäst för barn i åldern 7-10 år. Här klättrar barnen med varandra och en erfaren instruktör. Fokus ligger på att ha det kul och utmana oss utefter våra egna förutsättningar när det passar. 
 
