@@ -10,6 +10,9 @@ slug: "priser"
 
 {{< price-table >}}
 
+## Autogiro
+Autogiro tecknas med bindningstid på 12 månader. Efter dessa första 12 månader är det 1 månads uppsägningstid.
+
 ## Student
 
 Studenter har __15% rabatt__ på entrépriserna, med undantag för autogiro.
