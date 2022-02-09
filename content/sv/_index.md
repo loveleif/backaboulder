@@ -5,13 +5,8 @@ description: "Göteborgs modernaste klättergym. Bouldering mitt på Hjalmar Bra
 draft: false
 ---
 
-# Covid uppdatering 2021-12-22!
-Torsdagen den 23e december kommer det att införas restriktioner i gymet. 
-Max 45 personer samtidigt kommer att gälla. Vi kommer inte använda ett bokningssystem, "först till kvarn" kommer att gälla. 
-Ring oss gärna innan ni kommer om ni vill kolla läget i gymet, +46 (0)76 32 60 545.
-De tiderna det brukar vara som mest besökare i gymet är vardagar, 17-20. Övrig tid brukar det inte vara mer än 45 personer.
-Max 2 timmars träningspass om du är i gymet mellan 17-20.
-Bastun kommer att vara avstängd. 
+# Covid uppdatering 2021-02-09
+Det finns inga corona-relaterade restriktioner i gymet just nu. 
 
 # Backa Boulder
 
