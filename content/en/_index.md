@@ -5,8 +5,15 @@ description: "Gothenburgs most modern climbing gym. Bouldering in the middle of 
 draft: false
 ---
 
-# Corona update 2022-02-09
-There are no Corona related restrictions in the gym right now.
+# The Gothenburg Cup 2021/2022
+
+We will hold the superfinals to the Gothenburg Cup on the 11th of March. 
+The competition starts at 18:00.
+It will be a climbfest for climbers as well as spectators with giveaways, DJ, spectacular climbing and more. 
+We will begin to tear down and re-set walls on Wednesday March 9th. 
+You can climb in the gym up until the competition starts, but there will be a slight building mess during daytime.
+Watching the competition is free. You are very welcome!
+
 
 # Backa Boulder
 
