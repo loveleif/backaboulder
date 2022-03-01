@@ -5,12 +5,22 @@ description: "Göteborgs modernaste klättergym. Bouldering mitt på Hjalmar Bra
 draft: false
 ---
 
-# Covid uppdatering 2021-02-09
-Det finns inga corona-relaterade restriktioner i gymet just nu. 
+# Göteborgscupen 2021/2022
+
+Den 11e mars kommer vi hålla superfinalen till Göteborgscupen. 
+18:00 drar tävlingen igång. 
+Det kommer bli en klätterfest för såväl deltagare som åskådare med giveaways, DJ, grym klättring med mera. 
+Vi kommer börja riva vissa väggar i gymet från onsdag den 9e mars. 
+Det går bra att klättra i gymet fram till tävlingen, men det kommer vara lite stökigt under dagtid. 
+Det är gratis att komma och kolla på tävlingen. Varmt välkomna!
+
 
 # Backa Boulder
 
-Välkommen till Göteborgs modernaste klättergym. Våra lokaler byggdes 2017 och klätterväggarna byggdes 2021. Vi är ett nystartat Bouldergym mitt på Hjalmar Brantingsplatsen. Hit är det lätt att ta sig från hela Göteborg. 
+Välkommen till Göteborgs modernaste klättergym. 
+Våra lokaler byggdes 2017 och klätterväggarna byggdes 2021. 
+Vi är ett nystartat Bouldergym mitt på Hjalmar Brantingsplatsen. 
+Hit är det lätt att ta sig från hela Göteborg. 
 
 ![Backa boulder besökare](image/backa-boulder-6.jpg)
 
