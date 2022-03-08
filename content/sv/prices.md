@@ -28,6 +28,11 @@ Undomar till och med 15 år går in till ett billigare pris:
 Barn under sex år får besöka oss gratis i målshens sällskap om målshen klättrar.
 Om bara barnet klättrar så kostar entré 75 kronor. 
 
+## Yoga/klättring kombo kort
+
+Vi har ett samarbete med en yoga/rörelse studio, The Gremlin Society. 
+Du kan köpa ett månadskort för att ta del av båda våra lokaler och aktiviteter för bara 750 kronor. 
+
 ## Instruktörer och gruppbokningar
 
 Vi har instruktörer för gruppbokningar. De kostar 350 kronor per timme. 
