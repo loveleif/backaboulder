@@ -30,7 +30,7 @@ If the child climbs and the adult does not the admission price is 75 SEK.
 
 ## Combo yoga/climbing card
 We have an collaboration with a yoga/movement studio, The Gremlin Society.
-You can buy a combined yoga and climbing card and get unlimited access to both our facilities and activities for only 750 SEK.
+You can buy a combined yoga and climbing card and get unlimited access to both our facilities and activities for only 750 SEK per month.
 
 ## Instructors and group bookings
 
