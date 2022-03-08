@@ -28,6 +28,10 @@ Students have a __15% discount__ on entry fees, excluding "autogiro".
 Children younger than six years old can visit us for __free__, in company with an adult, if the adult climbs. 
 If the child climbs and the adult does not the admission price is 75 SEK.
 
+## Combo yoga/climbing card
+We have an collaboration with a yoga/movement studio, The Gremlin Society.
+You can buy a combined yoga and climbing card and get unlimited access to both our facilities and activities for only 750 SEK.
+
 ## Instructors and group bookings
 
 We have instructors available for group bookings. They cost 350 SEK per hour.
