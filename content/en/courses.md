@@ -10,6 +10,18 @@ draft: false
 Our kids courses during the spring of 2022 are held at wednesdays 1700-1830 and saturdays 0900-1030 and 1100-1230.
 The youth courses are held at wednesdays 1900-2030 and saturdays 1300-1430.
          
+## Easter climbing school
+
+During week 15 we will hold our appreciated climbing school with Erick Fonseca as instructor. 
+It will take place Monday - Friday. There are three groups:
+
+10:00 - 11:30, 7-10 years old
+12:00 - 13:30, 7-10 years old
+14:00 - 15:30, 11-14 years old
+
+The price is 950 SEK, climbing shoes and chalk is included. 
+Apply at kontakt@backaboulder.se
+
 ## Kids climbing
 
 The kids courses are fully booked for spring 2022.
