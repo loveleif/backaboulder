@@ -5,17 +5,6 @@ description: "Göteborgs modernaste klättergym. Bouldering mitt på Hjalmar Bra
 draft: false
 ---
 
-# Göteborgscupen 2021/2022
-
-Den 11e mars kommer vi hålla superfinalen till Göteborgscupen. 
-18:00 drar tävlingen igång. 
-Det kommer bli en klätterfest för såväl deltagare som åskådare med giveaways, DJ, grym klättring med mera. 
-Vi kommer börja riva vissa väggar i gymet från onsdag den 9e mars. 
-Det går bra att klättra i gymet fram 16:00 på fredag, men det kommer vara lite stökigt under dagtid. 
-Det är gratis att komma och kolla på tävlingen. Varmt välkomna!
-Tävlingsproblemen kommer att hänga uppe under helgen och på måndagen efter börjar vi fylla på med nya problem. 
-
-
 # Backa Boulder
 
 Välkommen till Göteborgs modernaste klättergym. 
