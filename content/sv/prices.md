@@ -39,3 +39,6 @@ Vi har instruktörer för gruppbokningar. De kostar 350 kronor per timme.
 Om du bokar en grupp med ungdomar under 16 år så är max antal deltagare 10st. 
 Detta är för att säkerställa säkerheten i gymet och en hög kvalité på servicen från instruktörerna.
 
+## Hyrpaddor
+Vi har hyrpaddor. 100 kronor per dag. 
+
