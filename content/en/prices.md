@@ -37,3 +37,6 @@ You can buy a combined yoga and climbing card and get unlimited access to both o
 We have instructors available for group bookings. They cost 350 SEK per hour.
 If your book a group with youth under the age of 16 the maximum amount of participants is 10.
 This is to ensure safe conditions in the gym and a high quality service from our instructors. 
+
+## Rental pads
+We got rental pads. 100 SEK per day. 
