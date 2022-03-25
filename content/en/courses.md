@@ -16,7 +16,9 @@ During week 15 we will hold our appreciated climbing school with Erick Fonseca a
 It will take place Monday - Friday. There are three groups:
 
 10:00 - 11:30, 7-10 years old
+
 12:00 - 13:30, 7-10 years old
+
 14:00 - 15:30, 11-14 years old
 
 The price is 950 SEK, climbing shoes and chalk is included. 
