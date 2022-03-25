@@ -5,6 +5,20 @@ description: "Gothenburgs most modern climbing gym. Bouldering in the middle of 
 draft: false
 ---
 
+## Easter climbing school
+
+During week 15 we will hold our appreciated climbing school with Erick Fonseca as instructor. 
+It will take place Monday - Friday. There are three groups:
+
+10:00 - 11:30, 7-10 years old
+
+12:00 - 13:30, 7-10 years old
+
+14:00 - 15:30, 11-14 years old
+
+The price is 950 SEK, climbing shoes and chalk is included. 
+Apply at kontakt@backaboulder.se
+
 # Backa Boulder
 
 Welcome to Gothenburgs most modern climbing gym. Our building was constructed 
