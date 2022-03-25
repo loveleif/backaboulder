@@ -11,7 +11,9 @@ Under vecka 15 kör vi vår uppskattade klätterskola med Erick Fonseca som inst
 Den hålls måndag - fredag. Det finns tre grupper:
 
 10:00 - 11:30, 7-10 år
+
 12:00 - 13:30, 7-10 år
+
 14:00 - 15:30, 11-14 år
 
 Priset är 950 kronor, då ingår skor och krita. 
