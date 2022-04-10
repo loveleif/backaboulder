@@ -26,9 +26,11 @@ Påskdagen | 10-19
 Annandag påsk | 10-19
 -->
 
-Den 11e mars är gymet öppet för klättring klockan 10-18. 
-Klockan 18:00 drar vi igång superfinalen till Göteborgscupen. 
-Varmt välkomna att komma och titta på!
+## Öppettider under vår/sommar 2022
+
+Påsk - öppet som vanligt
+Midsommarafton - stängt
+midsommardagen - stängt
 
 Avvikande öppettider kan förekomma på och kring röda dagar samt juni-augusti.
 
