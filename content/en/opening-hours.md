@@ -35,6 +35,7 @@ Monday April 5th     | 10-19
 Easter - open as usual
 
 Midsummers eve - closed
+
 Midsummers day - closed
 
 Deviating opening hours may occur on and around public holidays and during June-August.
