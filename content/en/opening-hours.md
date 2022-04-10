@@ -30,8 +30,11 @@ Monday April 5th     | 10-19
 
 -->
 
-On the 11th of March the gym will be open for climbing 10-18. 
-At 18:00 we will hold the superfinals to The Gothenburg Cup. 
-You are very welcome to come and watch. 
+## Opening hours during spring/summer 2022
+
+Easter - open as usual
+
+Midsummers eve - closed
+Midsummers day - closed
 
 Deviating opening hours may occur on and around public holidays and during June-August.
