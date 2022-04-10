@@ -29,7 +29,9 @@ Annandag påsk | 10-19
 ## Öppettider under vår/sommar 2022
 
 Påsk - öppet som vanligt
+
 Midsommarafton - stängt
+
 midsommardagen - stängt
 
 Avvikande öppettider kan förekomma på och kring röda dagar samt juni-augusti.
