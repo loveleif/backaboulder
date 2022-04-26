@@ -5,19 +5,18 @@ description: "Göteborgs modernaste klättergym. Bouldering mitt på Hjalmar Bra
 draft: false
 ---
 
-## Påsklovets klätterskola
+## Sommarens klätterskola
 
-Under vecka 15 kör vi vår uppskattade klätterskola med Erick Fonseca som instruktör. 
-Den hålls måndag - fredag. Det finns tre grupper:
+I sommar kör vi klätterskola. 
+Veckorna 25-32 är öppna för anmälan
 
-10:00 - 11:30, 7-10 år
+Mån-fre, 10:00 - 11:30, 7-10 år
+Mån-fre, 12:00 - 13:30, 11-14 år
 
-12:00 - 13:30, 7-10 år
-
-14:00 - 15:30, 11-14 år
-
-Priset är 950 kronor, då ingår skor och krita. 
+Pris, 1000 kronor, inkl krita, skor och instruktör.
+Vecka 25 hålls skolan mån-fre, 800 kronor.
 Anmäl intresse till kontakt@backaboulder.se
+Tack.
 
 
 # Backa Boulder
