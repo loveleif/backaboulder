@@ -8,10 +8,12 @@ slug: "kurser"
 ## Sommarens klätterskola
 
 I sommar kör vi klätterskola. 
-Veckorna 25-32 är öppna för anmälan
 
-Mån-fre, 10:00 - 11:30, 7-10 år
-Mån-fre, 12:00 - 13:30, 11-14 år
+Veckorna 25-32 är öppna för anmälan.
+
+Mån-fre, 10:00 - 11:30, 7-10 år.
+
+Mån-fre, 12:00 - 13:30, 11-14 år.
 
 Pris, 1000 kronor, inkl krita, skor och instruktör.
 Vecka 25 hålls skolan mån-fre, 800 kronor.
