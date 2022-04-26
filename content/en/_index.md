@@ -5,19 +5,18 @@ description: "Gothenburgs most modern climbing gym. Bouldering in the middle of 
 draft: false
 ---
 
-## Easter climbing school
+## Summer climbing school
 
-During week 15 we will hold our appreciated climbing school with Erick Fonseca as instructor. 
-It will take place Monday - Friday. There are three groups:
+Our summer climbing school returns this summer. 
+Weeks 25-32 are open for registration.
 
-10:00 - 11:30, 7-10 years old
+Mon-Fri, 7-10 years old, 10:00 - 11:30.
+Mon-Fri, 11-14 years old, 12:00 - 13:30.
 
-12:00 - 13:30, 7-10 years old
-
-14:00 - 15:30, 11-14 years old
-
-The price is 950 SEK, climbing shoes and chalk is included. 
-Apply at kontakt@backaboulder.se
+The price is 1000 SEK, shoes, chalk and instructor are included. 
+Make your registration via kontakt@backaboulder.se. 
+Week 25 will be held Mon-Thu, 800 SEK.
+Thank you!
 
 # Backa Boulder
 
