@@ -8,15 +8,16 @@ draft: false
 ## Summer climbing school
 
 Our summer climbing school returns this summer. 
+
 Weeks 25-32 are open for registration.
 
 Mon-Fri, 7-10 years old, 10:00 - 11:30.
+
 Mon-Fri, 11-14 years old, 12:00 - 13:30.
 
 The price is 1000 SEK, shoes, chalk and instructor are included. 
-Make your registration via kontakt@backaboulder.se. 
-Week 25 will be held Mon-Thu, 800 SEK.
-Thank you!
+Week 25 will be held Mon-Thu, 800 SEK. 
+Make your registration via kontakt@backaboulder.se. Thank you!
 
 # Backa Boulder
 
