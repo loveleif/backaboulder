@@ -40,3 +40,6 @@ This is to ensure safe conditions in the gym and a high quality service from our
 
 ## Rental pads
 We got rental pads. 100 SEK per day. 
+
+## Friskvårdsbidrag
+We are connected to Epassi and Benify. 
