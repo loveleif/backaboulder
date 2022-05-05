@@ -42,3 +42,6 @@ Detta är för att säkerställa säkerheten i gymet och en hög kvalité på se
 ## Hyrpaddor
 Vi har hyrpaddor. 100 kronor per dag. 
 
+## Friskvårdsbidrag
+Vi tar emot betalning med Epassi och Benify. 
+
