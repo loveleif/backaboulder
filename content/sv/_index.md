@@ -4,6 +4,9 @@ menuName: "Hem"
 description: "Göteborgs modernaste klättergym. Bouldering mitt på Hjalmar Brantingsplatsen."
 draft: false
 ---
+## Öppetider lördag 14/5 10:00-17:00
+
+
 
 ## Sommarens klätterskola
 
