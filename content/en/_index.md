@@ -4,6 +4,9 @@ menuName: "Home"
 description: "Gothenburgs most modern climbing gym. Bouldering in the middle of Hjalmar Brantingsplatsen."
 draft: false
 ---
+## Opening hour on the 14/2 10:00-17:00
+
+
 
 ## Summer climbing school
 
