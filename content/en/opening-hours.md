@@ -18,24 +18,17 @@ You can use this template for temporary opening hours
 3. Voila, site will display temp opening hours.
 4. Don't forget to change the Swedish content.
 
-
-##
-
-Opening hours during Easter    |
----------------------|----------
-Friday April 2nd     | 10-19
-Saturday April 3rd   | 10-19
-Sunday April 4th     | 10-19
-Monday April 5th     | 10-19
-
 -->
 
-## Opening hours during spring/summer 2022
+## Opening hours during spring and summer 2022
 
-Easter - open as usual
+Midsummers eve - closed.
 
-Midsummers eve - closed
+Midsummers day - closed.
 
-Midsummers day - closed
+Weekdays weeks 26-33 - 10:00 - 21:00.
+
+All other days are open as usual.
+
 
 Deviating opening hours may occur on and around public holidays and during June-August.
