@@ -4,8 +4,13 @@ menuName: "Hem"
 description: "Göteborgs modernaste klättergym. Bouldering mitt på Hjalmar Brantingsplatsen."
 draft: false
 ---
-## Öppetider lördag 14/5 10:00-17:00
 
+## Kurs i nybörjarteknik
+Vår nästa nybörjarteknik.kurs startar tisdagen den 24e maj. 
+Den kommer att hållas på tisdagar, 19:00 - 20:30. 5 tillfällen, sista gången den 21a juni. 
+Kursen kostar 1700 kronor. Under kursens löptid klättrar deltagare gratis i gymet när som helst under öppettider. 
+Anmäl intresse via kontakt@backaboulder.se
+Tack. 
 
 
 ## Sommarens klätterskola
