@@ -4,8 +4,13 @@ menuName: "Home"
 description: "Gothenburgs most modern climbing gym. Bouldering in the middle of Hjalmar Brantingsplatsen."
 draft: false
 ---
-## Opening hour on the 14/5 10:00-17:00
 
+## Beginner´s technique
+Our next course in beginners technique is starting on Tuesday the 24th of May.
+It will be held on Tuesdays, 19:00-20:30. 5 sessions, with the last session on the 21st of June.
+The price is 1700 SEK. Throughout the duration of the course you are allowed to climb free in the gym at any time during open hours. 
+Register your interest via kontakt@backaboulder.se
+Thank you.
 
 
 ## Summer climbing school
