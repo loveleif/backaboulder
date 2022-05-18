@@ -5,9 +5,9 @@ description: "Göteborgs modernaste klättergym. Bouldering mitt på Hjalmar Bra
 draft: false
 ---
 
-## Kurs i nybörjarteknik
-Vår nästa nybörjarteknik-kurs startar tisdagen den 24e maj. 
-Den kommer att hållas på tisdagar, 19:00 - 20:30. 5 tillfällen, sista gången den 21a juni. 
+## Introduktionskurs
+Vår nästa introduktionskurs för bouldering och boulderingteknik startar tisdagen den 24e maj. 
+Den kommer att hållas på tisdagar, 19:00 - 21:00. 5 tillfällen, sista gången den 21a juni. 
 Kursen kostar 1700 kronor. Under kursens löptid klättrar deltagare gratis i gymet när som helst under öppettider. 
 Anmäl intresse via kontakt@backaboulder.se
 Tack. 
