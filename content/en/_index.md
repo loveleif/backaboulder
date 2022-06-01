@@ -5,12 +5,19 @@ description: "Gothenburgs most modern climbing gym. Bouldering in the middle of 
 draft: false
 ---
 
-## Introduction course
-Our next introduction course to bouldering and bouldering technique is starting on Tuesday the 24th of May.
-It will be held on Tuesdays, 19:00-21:00. 5 sessions, with the last session on the 21st of June.
-The price is 1700 SEK. Throughout the duration of the course you are allowed to climb free in the gym at any time during open hours. 
-Register your interest via kontakt@backaboulder.se
-Thank you.
+## Summer Climbing Card
+
+Do you know that you're going to be in Gothenburg this summer? 
+Then our summer card deal is ideal. 
+We have a great ventilation system that keeps the temperature 
+around 20 degrees in the gym, and we have ice cream!
+
+1 month - 350 SEK
+2 months - 700 SEK
+3 months - 1000 SEK
+
+The deal is available June to August. The application period for the 3 month card is throughout June.
+Student discount is available at 15%.
 
 
 ## Summer climbing school
