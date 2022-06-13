@@ -34,7 +34,7 @@ Mån-fre, 10:00 - 11:30, 7-10 år.
 Mån-fre, 12:00 - 13:30, 11-14 år.
 
 Pris, 1000 kronor, inkl krita, skor och instruktör.
-Vecka 25 hålls skolan mån-fre, 800 kronor.
+Vecka 25 hålls skolan mån-tor, 800 kronor.
 Anmäl intresse till kontakt@backaboulder.se.
 Tack.
 
