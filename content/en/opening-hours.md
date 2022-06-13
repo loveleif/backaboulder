@@ -11,6 +11,8 @@ draft: false
 
 ##
 
+Deviating opening hours may occur on and around public holidays and during June-August.
+
 <!-- 
 You can use this template for temporary opening hours
 1. Remove this text and the html comment tags
@@ -31,4 +33,4 @@ Weekdays weeks 26-33 - 10:00 - 21:00.
 All other days are open as usual.
 
 
-Deviating opening hours may occur on and around public holidays and during June-August.
+
