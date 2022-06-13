@@ -15,6 +15,7 @@ Avvikande öppettider kan förekomma på och kring röda dagar och i juni-august
 ## Öppettider under vår och sommar 2022
 
 Midsommarafton - stängt
+
 Midsommardagen - stängt
 
 Veckodagar vecka 26-33, 10:00 - 21:00.
