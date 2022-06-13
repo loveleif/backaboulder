@@ -13,7 +13,9 @@ Vi har ett kraftfullt ventilationssystem som håller
 temperaturen i gymet kring 20 grader, och vi har glass!
 
 1 månad - 350 kronor
+
 2 månader - 700 kronor
+
 3 månader - 1000 kronor
 
 Dealen gäller juni till augusti. 
