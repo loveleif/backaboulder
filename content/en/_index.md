@@ -13,7 +13,9 @@ We have a great ventilation system that keeps the temperature
 around 20 degrees in the gym, and we have ice cream!
 
 1 month - 350 SEK
+
 2 months - 700 SEK
+
 3 months - 1000 SEK
 
 The deal is available June to August. The application period for the 3 month card is throughout June.
