@@ -9,6 +9,20 @@ draft: false
 
 Here you will find information about upcoming events.
 
+## Summer climbing card
+Do you know that you´re going to be in Gothenburg this summer?
+Then our summer climbing card is ideal for you!
+We have a powerful ventialtion system that keeps the air in the gym around 20 degrees (Celsius!), and we have ice cream!
+
+1 month - 350 SEK
+
+2 months - 700 SEK
+
+3 months - 1000 SEK
+
+The deal is available June-August.
+The buy period for the 3 month card is throughout June. 
+Student discount with 15% is available.
 
 ## Summer climbing school 2022
 
