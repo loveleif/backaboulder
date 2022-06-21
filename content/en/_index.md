@@ -5,37 +5,6 @@ description: "Gothenburgs most modern climbing gym. Bouldering in the middle of 
 draft: false
 ---
 
-## Summer Climbing Card
-
-Do you know that you're going to be in Gothenburg this summer? 
-Then our summer card deal is ideal. 
-We have a great ventilation system that keeps the temperature 
-around 20 degrees in the gym, and we have ice cream!
-
-1 month - 350 SEK
-
-2 months - 700 SEK
-
-3 months - 1000 SEK
-
-The deal is available June to August. The application period for the 3 month card is throughout June.
-Student discount is available at 15%.
-
-
-## Summer climbing school
-
-Our summer climbing school returns this summer. 
-
-Weeks 25-32 are open for registration.
-
-Mon-Fri, 7-10 years old, 10:00 - 11:30.
-
-Mon-Fri, 11-14 years old, 12:00 - 13:30.
-
-The price is 1000 SEK, shoes, chalk and instructor are included. 
-Week 25 will be held Mon-Thu, 800 SEK. 
-Make your registration via kontakt@backaboulder.se. Thank you!
-
 # Backa Boulder
 
 Welcome to Gothenburgs most modern climbing gym. Our building was constructed 
