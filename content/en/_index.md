@@ -14,6 +14,8 @@ from all of Gothenburg.
 
 ![Backa boulder visitors](image/backa-boulder-6.jpg)
 
+{{< youtube ZUmlzctla0Q >}}
+
 We want to promote climbing culture in Gothenburg and Sweden by clarifying the 
 bond between indoor and outdoor climbing, and by showing the positive effects 
 on mental and physical health that climbing brings. Everyone are welcome at our 
