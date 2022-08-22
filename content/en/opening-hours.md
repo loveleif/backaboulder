@@ -22,15 +22,3 @@ You can use this template for temporary opening hours
 
 -->
 
-## Opening hours during spring and summer 2022
-
-Midsummers eve - closed.
-
-Midsummers day - closed.
-
-Weekdays weeks 26-33 - 10:00 - 21:00.
-
-All other days are open as usual.
-
-
-
