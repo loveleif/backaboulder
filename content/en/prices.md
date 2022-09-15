@@ -39,7 +39,11 @@ If your book a group with youth under the age of 16 the maximum amount of partic
 This is to ensure safe conditions in the gym and a high quality service from our instructors. 
 
 ## Rental pads
-We got rental pads. 100 SEK per day. 
+We got rental pads. The price is 100 SEK per day. 
 
 ## Friskvårdsbidrag
 We are connected to Epassi and Benify. 
+
+## Bruce
+We are connected to Bruce. If you use the app you can´t log in to our gym between 17:00 - 20:00 on weekdays. 
+All other opening hours are available for login. 
