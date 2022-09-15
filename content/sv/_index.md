@@ -31,4 +31,6 @@ energi så finns det lättare förtäring i vårt café. Efter passet kan du kop
 av i vår bastu. I området finns det även flera goa restauranger, pubar, biljard, 
 escape room och liknande. Varför åka in till stan när allting finns på Backaplan?
 
+<iframe src="https://www.google.com/maps/embed?pb=!4v1647876355415!6m8!1m7!1sCAoSLEFGMVFpcE95dlNiWS1FV0o2dHNWN0R4b3AzbllYZjRZb2MzNGdmZ0JMMm11!2m2!1d57.71963841502878!2d11.95029988703887!3f146.60025576201636!4f-3.262598607325316!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 
