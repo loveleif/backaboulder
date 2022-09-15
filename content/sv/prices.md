@@ -47,5 +47,5 @@ Vi tar emot betalning med Epassi och Benify.
 
 ## Bruce
 Vi är anslutna till Bruce. På vardagar klockan 17:00 - 20:00 kan du inte logga in med Bruce. 
-Alla andra tider går bra.
+Alla andra öppettider går bra för inloggning.
 
