@@ -36,11 +36,15 @@ Register interest and check availability at pelle@backaboulder.se.
 
 Most suitable for you who are new to climbing or have been climbing for up to one year or so, and wish to reach new heights. We go through all the climbing specific movements and train them properly in order for to climb more efficiently. What was earlier hard will become easy.
 
+The course runs for 5 sessions in 5 weeks. 
+
 ## Advanced course
 
 Register interest and check availability at pelle@backaboulder.se.
 
 Most suitable for you who have been climbing for a while and feel comfortable on the wall, gradewise around 6A-6C. Here we will go in depth of your climbing and climbing training, to develop a plan for you to strengthen and raise your level. We also go through injury prevention training for climbers so that you can enjoy a long and prosperous climbing life.
+
+The course runs for 5 sessions in 5 weeks. 
 
 ## Injury prevention training for climbers
 
