@@ -40,7 +40,7 @@ Most suitable for you who are new to climbing or have been climbing for up to on
 
 Register interest and check availability at kontakt@backaboulder.se.
 
-Most suitable for you who have been climbing for more than 3 years or so, or 6C and above. Here we will go in depth and look at your weaknesses to develop a plan for you to strengthen them and raise your lowest level. We also go through injury prevention  training for climbers so that you can keep on climbing for eternity.
+Most suitable for you who have been climbing for a while and feel comfortable on the wall, gradewise around 6A-6C. Here we will go in depth of your climbing and climbing training, to develop a plan for you to strengthen and raise your level. We also go through injury prevention training for climbers so that you can enjoy a long and prosperous climbing life.
 
 ## Injury prevention training for climbers
 
