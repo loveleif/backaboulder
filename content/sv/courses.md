@@ -31,15 +31,15 @@ Ungdomsklättringen passar bäst för ungdomar i åldern 11-14 år. Här klättr
 
 ## Introduktionskurs
 
-Anmäl intresse och kolla tillgänglighet via kontakt@backaboulder.se.
+Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
 
 Passar bäst för dig som är helt ny eller har klättrat upp till ett år, och vill ta dig vidare till oanade höjder. Vi går igenom alla de klätterspecifika rörelserna och tränar in dem ordentligt så att du kan klättra mer effektivt. Det som tidigare var svårt blir lätt.  
 
 ## Avancerad kurs
 
-Anmäl intresse och kolla tillgänglighet via kontakt@backaboulder.se.
+Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
 
-Passar bäst för dig som har klättrat mer än 3 år, eller ca 6C och uppåt. Här djupdyker vi på dina svagheter och tar fram en plan för att stärka dessa och höja din lägsta nivå. Vi går också igenom skadeförebyggande träning för klättrare så att du kan fortsätta klättra i evighet.
+Passar för dig som har klättrat ett tag och känner dig bekväm på väggen. Om du klättrar runt 6A-6C så är det rätt läge. Här djupdyker vi ner i din klättring och tittar på klätterträning generellt, för att ta dig till nästa nivå. Vi går också igenom skadeförebyggande träning för klättrare så att du kan njuta av ett långt och skönt klätterliv.
 
 ## Skadeförebyggande träning för klättrare
 
