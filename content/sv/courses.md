@@ -18,7 +18,7 @@ Onsdagar, 17:00-18:30, 7-10 år och 19:00-20:30, 11-14 år.
 Lördagar, 09:00-10:30, 7-10 år, 11:00-12:30, 7-10 år och 13:00-14:30, 11-14 år. 
 
 
-Det går bra att anmäla intresse till framtida terminer via konktakt@backaboulder.se.
+Det går bra att anmäla intresse till framtida terminer via kontakt@backaboulder.se.
 Välkomna!
 
 ## Barnklättring
