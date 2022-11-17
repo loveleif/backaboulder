@@ -10,7 +10,7 @@ draft: false
 Here you will find information about upcoming events.
 
 ## The Gothenburg Cup
-The Gothenburg has kicked off for this season. 
+The Gothenburg Cup has kicked off for this season. 
 We will hold our part of it at December 2nd and 3rd. 
 
 December 2nd - Juniors 17:00 - 20:00.
