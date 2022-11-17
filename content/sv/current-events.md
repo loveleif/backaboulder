@@ -11,7 +11,7 @@ slug: "aktuellt"
 Här skriver vi om aktuella händelser på gymmet.
 
 ## GöteborgsCupen
-Göteborgscupen har startar igång för denna säsongen. 
+Göteborgscupen har startat igång för denna säsongen. 
 Vi kommer hålla vår deltävling den 2a och 3e december. 
 
 2a december - Juniorer 17:00 - 20:00.
