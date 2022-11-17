@@ -16,10 +16,11 @@ Vi kommer hålla vår deltävling den 2a och 3e december.
 
 2a december - Juniorer 17:00 - 20:00.
 
-3e december - Seniorer kval 15:00 - 20:00, 
+3e december - Seniorer kval 15:00 - 18:00, 
 final 19:00 och framåt. 
 
-Ni kan anmäla er i receptionen eller via kontakt@backaboulder.se.
+Ni kan anmäla er till tävlingen i receptionen eller via kontakt@backaboulder.se.
+Det finns 100 platser var för de två datumen. 
 Välkomna!
 
 ## Sommarkort 2022
