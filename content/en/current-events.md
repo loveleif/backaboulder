@@ -9,6 +9,18 @@ draft: false
 
 Here you will find information about upcoming events.
 
+## The Gothenburg Cup
+The Gothenburg has kicked off for this season. 
+We will hold our part of it at December 2nd and 3rd. 
+
+December 2nd - Juniors 17:00 - 20:00.
+December 3rd - Seniors qualification 15:00 - 18:00, 
+and finals from 19:00 and onward.
+
+You can register for the competition in the gym or via kontakt@backaboulder.se.
+There are 100 spots for each date. 
+Welcome!
+
 ## Summer climbing card
 Do you know that you´re going to be in Gothenburg this summer?
 Then our summer climbing card is ideal for you!
