@@ -15,6 +15,7 @@ Göteborgscupen har startar igång för denna säsongen.
 Vi kommer hålla vår deltävling den 2a och 3e december. 
 
 2a december - Juniorer 17:00 - 20:00.
+
 3e december - Seniorer kval 15:00 - 20:00, 
 final 19:00 och framåt. 
 
