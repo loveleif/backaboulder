@@ -14,6 +14,7 @@ The Gothenburg has kicked off for this season.
 We will hold our part of it at December 2nd and 3rd. 
 
 December 2nd - Juniors 17:00 - 20:00.
+
 December 3rd - Seniors qualification 15:00 - 18:00, 
 and finals from 19:00 and onward.
 
