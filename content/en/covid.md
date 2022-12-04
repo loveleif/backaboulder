@@ -17,6 +17,5 @@ have a soar throat of dry cough.
 Wash your hands before and after your session. We have soap and hand sanitizer 
 easily available. Don’t touch yourself (or others) in the face during your 
 session.
-
-Feel free to use a mask. 
+ 
 
