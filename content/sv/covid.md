@@ -16,5 +16,4 @@ efter passet. Rör inte dig själv (eller andra) i ansiktet när du är här.
 Stanna hemma om du känner dig sjuk, illamående, febrig, snuvig, ovanligt 
 trött eller har halsont eller torrhosta.
 
-Använd gärna munskydd.
 
