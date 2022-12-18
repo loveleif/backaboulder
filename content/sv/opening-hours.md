@@ -14,8 +14,11 @@ Avvikande öppettider kan förekomma på och kring röda dagar och i juni-august
 
 Jul och Nyår öppettider.
 
-You can use this template for temporary opening hours.
-Copy paste the following to below the opening-table obove 
+Julafton 12:00 - 17:00, Juldagen - Stängt.
+
+26 - 30 December 10:00 - 22:00.
+
+Nyårsafton och Nyårsdagen - Stängt.
 
 
 
