@@ -12,7 +12,7 @@ slug: "öppettider"
 
 Avvikande öppettider kan förekomma på och kring röda dagar och i juni-augusti.
 
-Jul och Nyår öppettider
+Jul och Nyår öppettider.
 
 You can use this template for temporary opening hours.
 Copy paste the following to below the opening-table obove 
