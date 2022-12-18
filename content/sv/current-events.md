@@ -47,9 +47,7 @@ Tack.
 
 
 ## Höstens barn- och ungdomsklättring 2022
-
-Vi håller på att utforma höstens klätterskola. 
-Troligen kommer det att bli pass på: 
+ 
 
 Måndagar, 16:00-17:30, 7-10 år. 
 
