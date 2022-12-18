@@ -42,7 +42,6 @@ Make your registration via kontakt@backaboulder.se. Thank you!
 
 ## Fall term kids and youth climbing school 2022
 
-We are currently planning the climbing school for the fall. There will probably be the following times:
 
 Mondays, 16:00-17:30, 7-10 years old. 
 
