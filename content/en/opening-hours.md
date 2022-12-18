@@ -13,12 +13,13 @@ draft: false
 
 Deviating opening hours may occur on and around public holidays and during June-August.
 
-<!-- 
-You can use this template for temporary opening hours
-1. Remove this text and the html comment tags
-2. Edit the information below
-3. Voila, site will display temp opening hours.
-4. Don't forget to change the Swedish content.
+Christmas and New Year opening hours.
+
+Christmas eve 12:00 - 17:00, Christmas Day - Closed.
+
+26th - 30th December 10:00 - 22.00.
+
+New Years eve and New Years day - Closed
 
 -->
 
