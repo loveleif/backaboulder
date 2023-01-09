@@ -10,7 +10,7 @@ draft: false
 
 ## Fall term kids and youth climbing school 2022
 
-The fall term climbing school is fully booked.
+The Spring term climbing school is fully booked.
 There will be kids- youth climbing classes at the following times:
 
 Mondays, 16:00-17:30, 7-10 years old and 18:00-19:30, 11-14 years old.  
