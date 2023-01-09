@@ -14,4 +14,3 @@ draft: false
 Deviating opening hours may occur on and around public holidays and during June-August.
 
 
-
