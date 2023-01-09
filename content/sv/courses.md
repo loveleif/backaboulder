@@ -8,7 +8,7 @@ slug: "kurser"
 
 ## Höstens barn- och ungdomsklättring 2022
 
-Höstens klätterskola är fullbokad. 
+Vårterminens klätterskola är fullbokad. 
 Det kommer hållas pass på följande tider:
 
 Måndagar, 16:00-17:30, 7-10 år och 18:00-19:30, 11-14 år- 
