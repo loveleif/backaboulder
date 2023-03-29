@@ -26,7 +26,7 @@ The deal is available June-August.
 The buy period for the 3 month card is throughout June. 
 Student discount with 15% is available.
 
-## Summer climbing school 2022
+## Summer climbing school 2023
 
 Our summer climbing school returns this summer. 
 
@@ -40,7 +40,7 @@ The price is 1000 SEK, shoes, chalk and instructor are included.
 Week 25 will be held Mon-Thu, 800 SEK. 
 Make your registration via kontakt@backaboulder.se. Thank you!
 
-## Fall term kids and youth climbing school 2022
+## Fall term kids and youth climbing school 2023
 
 
 Mondays, 16:00-17:30, 7-10 years old. 
