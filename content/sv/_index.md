@@ -15,13 +15,8 @@ När passet är klart, är du varmt välkommen att koppla av i vår härliga bas
 
 {{< youtube ZUmlzctla0Q >}}
 
-Vi vill främja klättringen i Göteborg och Sverige genom att tydliggöra bandet 
-mellan klättring inomhus och utomhus, samt genom att visa klättringens positiva 
-effekter för både fysisk och mental hälsa. Hos oss är alla välkomna. Oavsett om 
-du klättrar bara för att det är gött eller om du klättrar för att utvecklas och 
-förverkliga dina mål så kommer du finna vad du behöver här. Om du vill ha hjälp 
-med din klättring kan du gå någon av våra kurser, barnklättring, ungdomsträning, 
-nybörjarteknik, avancerad teknik eller skadeförebyggande träning för klättrare.
+Utveckla din teknik i någon av våra kurser tillsammans med Göteborgs vassaste instruktörer. 
+Vårt kursutbud består av barnklättring, ungdomsträning, nybörjarteknik, avancerad teknik eller skadeförebyggande träning för klättrare.
 
 ![Backa boulder klättring](image/backa-boulder-4.jpg)
 
