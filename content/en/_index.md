@@ -7,10 +7,9 @@ draft: false
 
 # Backa Boulder
 
-Welcome to Gothenburgs most modern climbing gym. Our building was constructed 
-in 2017 and our climbing walls were made in 2021. We are a newly started 
-bouldering gym in the middle of Hjalmar Brantingsplatsen, easily accessible 
-from all of Gothenburg.
+We are a Climbing gym in the heart of Hisingen, a short walk from Hjalmar Brantingsplatsen. 
+Here you can find 350 square meters of challenging boulder walls for all levels from beginners to professional. 
+And to top off this great place you can end your session in our wonderful sauna.
 
 ![Backa boulder visitors](image/backa-boulder-6.jpg)
 
