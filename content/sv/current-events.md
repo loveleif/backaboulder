@@ -12,7 +12,7 @@ Här skriver vi om aktuella händelser på gymmet.
 
 
 
-## Sommarkort 2022
+## Sommarkort 2023
 
 Vet du om att du ska vara i Göteborg i sommar?
 Då är vårt sommarkort rätt för dig!
@@ -30,7 +30,7 @@ Köp-perioden för 3-månaders kortet är juni.
 Studentrabatt finns på 15%. 
 
 
-## Sommarens klätterskola 2022
+## Sommarens klätterskola 2023
 
 I sommar kör vi klätterskola. 
 
@@ -46,7 +46,7 @@ Anmäl intresse till kontakt@backaboulder.se.
 Tack.
 
 
-## Höstens barn- och ungdomsklättring 2022
+## Höstens barn- och ungdomsklättring 2023
  
 
 Måndagar, 16:00-17:30, 7-10 år. 
