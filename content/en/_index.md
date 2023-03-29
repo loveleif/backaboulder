@@ -20,7 +20,5 @@ We offer courses for Kids, Youth, beginner technique, advanced technique and inj
 
 ![Backa boulder bouldering](image/backa-boulder-4.jpg)
 
-We have 350 square meters of climbing wall and a gym for you to discover. If you 
-need energy we have lights snacks. After the workout you can recover in our sauna. 
-There are also several restaurants, pubs, a billiard place and an escape room in 
-the area. Why go in to the city when Hisingen has it all?
+We want to boost the climbing culture in Gothenberg and Sweden by bringing together the indoor and outdoor climbing community, and to show the positive effects on mental and physical health that climbing gives.
+Everyone is welcome here. Meet great people and new friends. Climb hard or not, make goals, break records or just have fun.
