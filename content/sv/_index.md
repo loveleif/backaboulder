@@ -7,10 +7,9 @@ draft: false
 
 # Backa Boulder
 
-Välkommen till Göteborgs modernaste klättergym. 
-Våra lokaler byggdes 2017 och klätterväggarna byggdes 2021. 
-Vi är ett nystartat Bouldergym mitt på Hjalmar Brantingsplatsen. 
-Hit är det lätt att ta sig från hela Göteborg. 
+Vi är ett Bouldergym i hjärtat av Hisingen — ett stenkast från Hjalmar Brantingsplatsen. 
+Här hittar du 350 kvadratmeter av utmanande boulderväggar för både nybörjare och proffs. 
+När passet är klart, är du varmt välkommen att koppla av i vår härliga bastu! 
 
 ![Backa boulder besökare](image/backa-boulder-6.jpg)
 
