@@ -15,13 +15,8 @@ And to top off this great place you can end your session in our wonderful sauna.
 
 {{< youtube ZUmlzctla0Q >}}
 
-We want to promote climbing culture in Gothenburg and Sweden by clarifying the 
-bond between indoor and outdoor climbing, and by showing the positive effects 
-on mental and physical health that climbing brings. Everyone are welcome at our 
-place. Regardless if you climb just because it's fun or if you climb to evolve 
-and reach specific goals you will find what you need here. If you wish to develop 
-your climbing skills we offer courses in kid climbing, youth training, beginner 
-technique, advanced technique and injury prevention for climbers.
+Develop your Climbing skills together with our highly experienced instructors.
+We offer courses for Kids, Youth, beginner technique, advanced technique and injury prevention for climbers.
 
 ![Backa boulder bouldering](image/backa-boulder-4.jpg)
 
