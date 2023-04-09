@@ -17,7 +17,7 @@ Här skriver vi om aktuella händelser på gymmet.
 Vet du om att du ska vara i Göteborg i sommar?
 Då är vårt sommarkort rätt för dig!
 Vi har ett kraftfullt ventilationssystem som håller
-temperaturen i gymet kring 20 grader, och vi har glass!
+temperaturen i gymmet kring 20 grader, och vi har glass!
 
 1 månad - 350 kronor
 
