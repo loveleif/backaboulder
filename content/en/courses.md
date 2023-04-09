@@ -8,7 +8,7 @@ draft: false
 
 
 
-## Fall term kids and youth climbing school 2022
+## Fall term kids and youth climbing school 2023
 
 The Spring term climbing school is fully booked.
 There will be kids and youth climbing classes at the following times:
