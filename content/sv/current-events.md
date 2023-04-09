@@ -55,3 +55,8 @@ ditt barn på väntelista.
 Välkomna!
 
 
+## Lovverksamhet
+
+Under sportlov, påsklov och höstlov erbjuder 
+vi lovklättring för barn i ålder 7-10 och 11-14 år.
+Maila konktakt@backaboulder.se för mer information.
