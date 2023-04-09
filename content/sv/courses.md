@@ -35,7 +35,7 @@ Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
 
 Passar bäst för dig som är helt ny eller har klättrat upp till ett år, och vill ta dig vidare till oanade höjder. Vi går igenom alla de klätterspecifika rörelserna och tränar in dem ordentligt så att du kan klättra mer effektivt. Det som tidigare var svårt blir lätt.  
 
-Kursen består av 5 tillfällen under 5 veckor och kostar 2000kr. 
+Kursen består av 5 tillfällen, en gång i veckan under 5 veckor och kostar 2000kr. 
 
 ## Avancerad kurs
 
@@ -43,7 +43,7 @@ Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
 
 Passar för dig som har klättrat ett tag och känner dig bekväm på väggen. Om du klättrar runt 6A-6C så är det rätt läge. Här djupdyker vi ner i din klättring och tittar på klätterträning generellt, för att ta dig till nästa nivå. Vi går också igenom skadeförebyggande träning för klättrare så att du kan njuta av ett långt och skönt klätterliv.
 
-Kursen består av 5 tillfällen under 5 veckor och kostar 2300kr. 
+Kursen består av 5 tillfällen, en gång i veckan under 5 veckor och kostar 2300kr. 
 
 ## Skadeförebyggande träning för klättrare
 
