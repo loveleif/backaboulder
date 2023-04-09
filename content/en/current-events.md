@@ -46,3 +46,11 @@ All places are taken for the season.
 Mail kontakt@backaboulder.se to place your child onto the waitinglist.
 
 Welcome!
+
+
+## Other School Holidays
+
+During the halfterm breaks and Easter break
+we offer climbing groups for children age 7-10 and 11-14.
+
+Mail kontakt@backaboulder.se for more information.
