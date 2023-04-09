@@ -48,6 +48,7 @@ Onsdagar, 17:00-18:30, 7-10 år och 19:00-20:30, 11-14 år.
 Lördagar, 09:00-10:30, 7-10 år, 11:00-12:30, 7-10 år och 13:00-14:30, 11-14 år. 
 
 Grupperna är för tillfället fullbokade.
+
 Maila konktakt@backaboulder.se för att sätta upp 
 ditt barn på väntelista.
 Välkomna!
