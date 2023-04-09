@@ -40,7 +40,7 @@ Om du bokar en grupp med ungdomar under 16 år så är max antal deltagare 10st.
 Detta är för att säkerställa säkerheten i gymet och en hög kvalité på servicen från instruktörerna.
 
 ## Hyrpaddor
-Vi har hyrpaddor. De ksotar 100 kronor per dag. 
+Vi har hyrpaddor. De kostar 100 kronor per dag. 
 
 ## Friskvårdsbidrag
 Vi tar emot betalning med Epassi och Benify. 
