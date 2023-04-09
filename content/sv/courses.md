@@ -6,7 +6,7 @@ draft: false
 slug: "kurser"
 ---
 
-## Höstens barn- och ungdomsklättring 2022
+## Höstens barn- och ungdomsklättring 2023
 
 Vårterminens klätterskola är fullbokad. 
 Det kommer hållas pass på följande tider:
