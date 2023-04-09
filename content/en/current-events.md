@@ -41,6 +41,8 @@ Wednesdays, 17:00-18:30, 7-10 years old and 19:00-20:30, 11-14 years old.
 
 Saturdays, 09:00-10:30, 7-10 years old, 11:00-12:30, 7-10 years old and 13:00-14:30, 11-14 years old.
 
-Or similar.
-Mail kontakt@backaboulder.se to check availability and register interest. 
+All places are taken for the season.
+
+Mail kontakt@backaboulder.se to place your child onto the waitinglist.
+
 Welcome!
