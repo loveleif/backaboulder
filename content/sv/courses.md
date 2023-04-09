@@ -5,7 +5,7 @@ description: "Backa boulder kurser i klättring"
 draft: false
 slug: "kurser"
 ---
-Vi erbjuder kurser till både barn, ungdomer ovh vuxna, se nedan.
+Vi erbjuder kurser till både barn, ungdomer ovh vuxna.
 ## Höstens barn- och ungdomsklättring 2023
 
 Vårterminens klätterskola är fullbokad. 
