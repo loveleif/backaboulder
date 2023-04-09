@@ -28,17 +28,9 @@ Student discount with 15% is available.
 
 ## Summer climbing school 2023
 
-Our summer climbing school returns this summer. 
+Details coming soon.
 
-Weeks 25-32 are open for registration.
-
-Mon-Fri, 7-10 years old, 10:00 - 11:30.
-
-Mon-Fri, 11-14 years old, 12:00 - 13:30.
-
-The price is 1000 SEK, shoes, chalk and instructor are included. 
-Week 25 will be held Mon-Thu, 800 SEK. 
-Make your registration via kontakt@backaboulder.se. Thank you!
+kontakt@backaboulder.se. 
 
 ## Fall term kids and youth climbing school 2023
 
