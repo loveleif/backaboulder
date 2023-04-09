@@ -32,18 +32,10 @@ Studentrabatt finns på 15%.
 
 ## Sommarens klätterskola 2023
 
-I sommar kör vi klätterskola. 
+Information kommer inom kort.
 
-Veckorna 25-32 är öppna för anmälan.
+kontakt@backaboulder.se.
 
-Mån-fre, 10:00 - 11:30, 7-10 år.
-
-Mån-fre, 12:00 - 13:30, 11-14 år.
-
-Pris, 1000 kronor, inkl krita, skor och instruktör.
-Vecka 25 hålls skolan mån-tor, 800 kronor.
-Anmäl intresse till kontakt@backaboulder.se.
-Tack.
 
 
 ## Höstens barn- och ungdomsklättring 2023
