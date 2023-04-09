@@ -7,7 +7,7 @@ draft: false
 
 
 
-
+We offer courses for both kids, youths and adults, see below.
 ## Fall term kids and youth climbing school 2023
 
 The Spring term climbing school is fully booked.
