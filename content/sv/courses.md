@@ -31,27 +31,29 @@ Ungdomsklättringen passar bäst för ungdomar i åldern 11-14 år. Här klättr
 
 ## Introduktionskurs
 
-Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
-
 Passar bäst för dig som är helt ny eller har klättrat upp till ett år, och vill ta dig vidare till oanade höjder. Vi går igenom alla de klätterspecifika rörelserna och tränar in dem ordentligt så att du kan klättra mer effektivt. Det som tidigare var svårt blir lätt.  
 
-Kursen består av 5 tillfällen, en gång i veckan under 5 veckor och kostar 2000kr. 
-
-## Avancerad kurs
+Kursen består av 5 tillfällen, en gång i veckan under 5 veckor och kostar 2000kr.
 
 Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
+
+## Avancerad kurs
 
 Passar för dig som har klättrat ett tag och känner dig bekväm på väggen. Om du klättrar 6B så är det rätt läge. Här djupdyker vi ner i din klättring och tittar på klätterträning generellt, för att ta dig till nästa nivå. Vi går också igenom skadeförebyggande träning för klättrare så att du kan njuta av ett långt och skönt klätterliv.
 
 Kursen består av 5 tillfällen, en gång i veckan under 5 veckor och kostar 2300kr. 
 
-## PT timma
+Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
+
+## PT-timma
 
 Känner du att du har nått en platå med din klättring och inte kommer vidare, då kan en PT-timma
 vara något för dig. Du värmer upp på egen tid och därefter klättrar du tillsammans med en coach
 som kommer med råd och tips på klätterövningar och hur du förbättrar din klätterteknik.
 
 Investering 500kr.
+
+Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
 
 ## 12-Veckors program
 
@@ -62,7 +64,9 @@ Här tar vi reda på vad som är dina styrkor och svagheter. Vi skapar tillsamma
 Som start är det 1 timme med coach för utvärdering. När träningsplanen är utformad så är det 1 timme till med coach där ni går genom övningarna och upplägget. 
 Under de 12 veckorna har du kontakt med coach regelbundet för utvärdering och justeringar vid behov. 
 
-Investering 3200kr
+Investering 3200kr.
+
+Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
 
 
 ## Skadeförebyggande träning för klättrare
