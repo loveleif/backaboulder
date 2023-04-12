@@ -41,9 +41,29 @@ Kursen består av 5 tillfällen, en gång i veckan under 5 veckor och kostar 200
 
 Anmäl intresse och kolla tillgänglighet via pelle@backaboulder.se.
 
-Passar för dig som har klättrat ett tag och känner dig bekväm på väggen. Om du klättrar runt 6A-6C så är det rätt läge. Här djupdyker vi ner i din klättring och tittar på klätterträning generellt, för att ta dig till nästa nivå. Vi går också igenom skadeförebyggande träning för klättrare så att du kan njuta av ett långt och skönt klätterliv.
+Passar för dig som har klättrat ett tag och känner dig bekväm på väggen. Om du klättrar 6B så är det rätt läge. Här djupdyker vi ner i din klättring och tittar på klätterträning generellt, för att ta dig till nästa nivå. Vi går också igenom skadeförebyggande träning för klättrare så att du kan njuta av ett långt och skönt klätterliv.
 
 Kursen består av 5 tillfällen, en gång i veckan under 5 veckor och kostar 2300kr. 
+
+## PT timma
+
+Känner du att du har nått en platå med din klättring och inte kommer vidare, då kan en PT-timma
+vara något för dig. Du värmer upp på egen tid och därefter klättrar du tillsammans med en coach
+som kommer med råd och tips på klätterövningar och hur du förbättrar din klätterteknik.
+
+Investering 500kr.
+
+## 12-Veckors program
+
+Personlig träningsplan 12 veckor 
+För dig som vill ha en träningsplan som är helt anpassad efter dina mål och behov. 
+Passar dig som är van att träna och har klättrat minst 1 år. 
+Här tar vi reda på vad som är dina styrkor och svagheter. Vi skapar tillsammans en träningsplan som funkar för ditt liv men också tar dig närmre ditt mål. 
+Som start är det 1 timme med coach för utvärdering. När träningsplanen är utformad så är det 1 timme till med coach där ni går genom övningarna och upplägget. 
+Under de 12 veckorna har du kontakt med coach regelbundet för utvärdering och justeringar vid behov. 
+
+Investering 3200kr
+
 
 ## Skadeförebyggande träning för klättrare
 
